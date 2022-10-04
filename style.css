@@ -1,3 +1,8 @@
+    
+    body {
+        background-image: url("./atteli/pngtree-polygonal-chemical-molecule-poster-background-image_125106.jpg");
+        background-repeat: no-repeat;
+    }
 
 * {
     margin: 0;
@@ -16,7 +21,7 @@ td {
 }
 
 .headingOne {
-    background-color: yellow;
+    text-align: center;
     padding: 5px;
     font-size: 5vw;
 }
@@ -68,4 +73,3 @@ td {
 .text_color_red {
     color: red;
 }
-
