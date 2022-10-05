@@ -1,6 +1,7 @@
 function udenradis(){
     document.getElementById("teksts").innerHTML="Ūdeņradis ir labs"
     document.getElementById("bilde").src="./atteli/11561_Sun.png"
+    
 }
 
 function helijs(){
@@ -34,6 +35,26 @@ function bors(){
     document.getElementById("teksts").innerHTML="Bors ir labs"
    document.getElementById("bilde").src=""
 }
+function ogleklis(){
+    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function slapeklis(){
+    document.getElementById("teksts").innerHTML="Slāpeklis ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function ogleklis(){
+    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function ogleklis(){
+    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
+   document.getElementById("bilde").src=""
+}
+
 function ogleklis(){
     document.getElementById("teksts").innerHTML="Ogleklis ir labs"
    document.getElementById("bilde").src=""
