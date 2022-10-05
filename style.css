@@ -11,17 +11,17 @@
     font-weight: 600;
 }
 
-.centrets {
-    text-align: center;
-}
-
 .grow { transition: all .2s ease-in-out; }
 .grow:hover { transform: scale(1.5); 
-                outline: thin;
+                outline:auto;
 }
 
 .baltiBurti {
     color: white;
+}
+
+.tekstsVidu {
+    text-align: center;
 }
 
 td {
