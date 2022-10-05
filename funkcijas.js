@@ -45,18 +45,43 @@ function slapeklis(){
    document.getElementById("bilde").src=""
 }
 
-function ogleklis(){
-    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
+function skabeklis(){
+    document.getElementById("teksts").innerHTML="Skābeklis ir labs"
    document.getElementById("bilde").src=""
 }
 
-function ogleklis(){
-    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
+function fluors(){
+    document.getElementById("teksts").innerHTML="Fluors ir labs"
    document.getElementById("bilde").src=""
 }
 
-function ogleklis(){
-    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
+function neons(){
+    document.getElementById("teksts").innerHTML="Neons ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function silicijs(){
+    document.getElementById("teksts").innerHTML="Silīcijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function fosfors(){
+    document.getElementById("teksts").innerHTML="Fosfors ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function sers(){
+    document.getElementById("teksts").innerHTML="Sērs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function hlors(){
+    document.getElementById("teksts").innerHTML="Hlors ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function argons(){
+    document.getElementById("teksts").innerHTML="Argons ir labs"
    document.getElementById("bilde").src=""
 }
 
