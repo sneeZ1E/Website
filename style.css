@@ -1,7 +1,12 @@
     
     body {
-        background-image: url("./atteli/pngtree-polygonal-chemical-molecule-poster-background-image_125106.jpg");
+        background-image: url("./atteli/wallpaperflare.com_wallpaper.jpg");
         background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    baltiBurti {
+        color: white;
     }
 
 * {
@@ -21,6 +26,7 @@ td {
 }
 
 .headingOne {
+    color: white;
     text-align: center;
     padding: 5px;
     font-size: 5vw;
