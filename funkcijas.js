@@ -39,3 +39,23 @@ function ogleklis(){
    document.getElementById("bilde").src=""
 }
 
+function slapeklis(){
+    document.getElementById("teksts").innerHTML="Slāpeklis ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function ogleklis(){
+    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function ogleklis(){
+    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function ogleklis(){
+    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
+   document.getElementById("bilde").src=""
+}
+
