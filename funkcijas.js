@@ -84,7 +84,7 @@ function argons(){
    document.getElementById("bilde").src=""
 }
 
-function Kālijs(){
+function Kalijs(){
     document.getElementById("teksts").innerHTML="Kālijs ir labs"
    document.getElementById("bilde").src=""
 }
@@ -99,12 +99,12 @@ function Skandijs(){
    document.getElementById("bilde").src=""
 }
 
-function Titāns(){
+function Titans(){
     document.getElementById("teksts").innerHTML="Titāns ir labs"
    document.getElementById("bilde").src=""
 }
 
-function Vanādijs(){
+function Vanadijs(){
     document.getElementById("teksts").innerHTML="Vanādijs ir labs"
    document.getElementById("bilde").src=""
 }
@@ -114,7 +114,7 @@ function Hroms(){
    document.getElementById("bilde").src=""
 }
 
-function Mangāns(){
+function Mangans(){
     document.getElementById("teksts").innerHTML="Mangāns ir labs"
    document.getElementById("bilde").src=""
 }
@@ -129,12 +129,12 @@ function Kobalts(){
    document.getElementById("bilde").src=""
 }
 
-function Niķelis(){
+function Nikelis(){
     document.getElementById("teksts").innerHTML="Niķelis ir labs"
    document.getElementById("bilde").src=""
 }
 
-function Varš(){
+function Vars(){
     document.getElementById("teksts").innerHTML="Varš ir labs"
    document.getElementById("bilde").src=""
 }
@@ -149,17 +149,17 @@ function Gallijs(){
    document.getElementById("bilde").src=""
 }
 
-function Germānijs(){
+function Germanijs(){
     document.getElementById("teksts").innerHTML="Germānijs ir labs"
    document.getElementById("bilde").src=""
 }
 
-function Arsēns(){
+function Arsens(){
     document.getElementById("teksts").innerHTML="Arsēns ir labs"
    document.getElementById("bilde").src=""
 }
 
-function Selēns(){
+function Selens(){
     document.getElementById("teksts").innerHTML="Selēns ir labs"
    document.getElementById("bilde").src=""
 }
@@ -171,5 +171,95 @@ function Broms(){
 
 function Kriptons(){
     document.getElementById("teksts").innerHTML="Kriptons ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Rubidijs(){
+    document.getElementById("teksts").innerHTML="Rubīdijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Stroncijs(){
+    document.getElementById("teksts").innerHTML="Stroncijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Itrijs(){
+    document.getElementById("teksts").innerHTML="Itrijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Cirkonijs(){
+    document.getElementById("teksts").innerHTML="Cirkonijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Niobijs(){
+    document.getElementById("teksts").innerHTML="Niobijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Molibdens(){
+    document.getElementById("teksts").innerHTML="Molibdēns ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Tehnecijs(){
+    document.getElementById("teksts").innerHTML="Tehnēcijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Rutenijs(){
+    document.getElementById("teksts").innerHTML="Rutēnijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Rodijs(){
+    document.getElementById("teksts").innerHTML="Rodijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Palladijs(){
+    document.getElementById("teksts").innerHTML="Pallādijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Sudrabs(){
+    document.getElementById("teksts").innerHTML="Sudrabs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Kadmijs(){
+    document.getElementById("teksts").innerHTML="Kadmijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Indijs(){
+    document.getElementById("teksts").innerHTML="Indijs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Alva(){
+    document.getElementById("teksts").innerHTML="Alva ir laba"
+   document.getElementById("bilde").src=""
+}
+
+function Antimons(){
+    document.getElementById("teksts").innerHTML="Antimons ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Telurs(){
+    document.getElementById("teksts").innerHTML="Telūrs ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Jods(){
+    document.getElementById("teksts").innerHTML="Jods ir labs"
+   document.getElementById("bilde").src=""
+}
+
+function Ksenons(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
    document.getElementById("bilde").src=""
 }
