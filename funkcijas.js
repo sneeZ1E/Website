@@ -30,11 +30,12 @@ function berilijs(){
     document.getElementById("teksts").innerHTML="Berilijs ir labs"
    document.getElementById("bilde").src=""
 }
-function aluminijs(){
-    document.getElementById("teksts").innerHTML="Alumīnijs ir labs"
+function bors(){
+    document.getElementById("teksts").innerHTML="Bors ir labs"
    document.getElementById("bilde").src=""
 }
-function aluminijs(){
-    document.getElementById("teksts").innerHTML="Alumīnijs ir labs"
+function ogleklis(){
+    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
    document.getElementById("bilde").src=""
 }
+
