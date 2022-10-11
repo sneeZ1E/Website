@@ -177,9 +177,8 @@ function Kriptons(){
 
 function Rubidijs(){
     document.getElementById("teksts").innerHTML="Rubīdijs ir labs"
-   document.getElementById("bilde").src=""
+   document.getElementById("bilde").src=""  
 }
-
 function Stroncijs(){
     document.getElementById("teksts").innerHTML="Stroncijs ir labs"
    document.getElementById("bilde").src=""
