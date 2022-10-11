@@ -263,3 +263,71 @@ function Ksenons(){
     document.getElementById("teksts").innerHTML="Ksenons ir labs"
    document.getElementById("bilde").src=""
 }
+function Cezijs(){
+    document.getElementById("teksts").innerHTML="Cēzijs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Barijs(){
+    document.getElementById("teksts").innerHTML="Bārijs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Hafnijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Tantals(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Volframs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Renijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Osmijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Irdijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Platins(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Zelts(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Dzivsudrabs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Tallijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Svins(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Bismuts(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Polonijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Astats(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Radons(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
