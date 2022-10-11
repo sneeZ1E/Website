@@ -174,6 +174,7 @@ function Kriptons(){
    document.getElementById("bilde").src=""
 }
 
+<<<<<<< Updated upstream
 function Rubidijs(){
     document.getElementById("teksts").innerHTML="Rubīdijs ir labs"
    document.getElementById("bilde").src=""
@@ -262,4 +263,9 @@ function Jods(){
 function Ksenons(){
     document.getElementById("teksts").innerHTML="Ksenons ir labs"
    document.getElementById("bilde").src=""
+=======
+function rubidijs(){
+    document.getElementById("teksts").innerHTML="Rubīdijs ir labs"
+   document.getElementById("bilde").src=""
+>>>>>>> Stashed changes
 }
