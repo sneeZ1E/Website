@@ -1,3 +1,4 @@
+
 function udenradis(){
     document.getElementById("teksts").innerHTML="Ūdeņradis ir labs"
     document.getElementById("bilde").src=""
@@ -176,9 +177,8 @@ function Kriptons(){
 
 function Rubidijs(){
     document.getElementById("teksts").innerHTML="Rubīdijs ir labs"
-   document.getElementById("bilde").src=""
+   document.getElementById("bilde").src=""  
 }
-
 function Stroncijs(){
     document.getElementById("teksts").innerHTML="Stroncijs ir labs"
    document.getElementById("bilde").src=""
@@ -259,3 +259,7 @@ function Jods(){
    document.getElementById("bilde").src=""
 }
 
+function Ksenons(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
