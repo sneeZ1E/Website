@@ -1,30 +1,30 @@
 
 function udenradis(){
-    document.getElementById("teksts").innerHTML="Ūdeņradis ir labs"
+    document.getElementById("teksts").innerHTML="Ūdeņradis ir viegli uzliesmojoša un bezkrāsaina divatomu gāze bez smaržas. Tās ķīmiskā formula ir H2. Ūdeņraža atommasa ir 1,00794 g/mol. Vairāk informācijas "
     document.getElementById("bilde").src=""
 }
 
 function helijs(){
-    document.getElementById("teksts").innerHTML="Hēlijs ir labs"
+    document.getElementById("teksts").innerHTML="Hēlijs ir ķīmiski visinertākais elements, kas tikpat kā neveido ķīmiskus savienojumus. Hēlijs ir nedegoša un grūti sašķidrināma vienatoma gāze. Vairāk informācijas "
     document.getElementById("bilde").src=""
 }
 
 function natrijs(){
-    document.getElementById("teksts").innerHTML="Nātrijs ir labs"
+    document.getElementById("teksts").innerHTML="Nātrijs ir sārmu metāls. Nātrijs dabā brīvā veidā nav sastopams, jo aktīvi reaģē ar gaisa skābekli un ūdeni. Vairāk informācijas"
     document.getElementById("bilde").src=""
 }
 
 function magnijs(){
-    document.getElementById("teksts").innerHTML="Magnijs ir labs"
+    document.getElementById("teksts").innerHTML="Magnijs ir sārmzemju metāls, dabā nav sastopams brīvā veidā. Savienojumos magnijs ir divvērtīgs, ar oksidēšanas pakāpi +2, ļoti retos gadījumos pakāpe ir +1. Vairāk informācijas"
     document.getElementById("bilde").src=""
 }
 
 function aluminijs(){
-    document.getElementById("teksts").innerHTML="Alumīnijs ir labs"
+    document.getElementById("teksts").innerHTML="Alumīnijs dabā nav sastopams brīvā veidā, galvenokārt alumīnija oksīda veidā, kā arī alumosilikātos."
    document.getElementById("bilde").src=""
 }
 function litijs(){
-    document.getElementById("teksts").innerHTML="Litijs ir labs"
+    document.getElementById("teksts").innerHTML="Litijs ir sārmu metāls, jo ir ķīmiski ļoti aktīvs, tāpēc brīvā veidā dabā nav sastopams.Dabā, savienojumu veidā litijs ir sastopams vairākos minerālos."
    document.getElementById("bilde").src=""
 }
 function berilijs(){
