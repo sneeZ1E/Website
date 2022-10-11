@@ -331,3 +331,40 @@ function Radons(){
     document.getElementById("teksts").innerHTML="Ksenons ir labs"
    document.getElementById("bilde").src=""
 }
+
+function Francijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Radijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Rezerfordijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Dubnijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Siborgijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Borijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Hasijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Mejtnerijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Darmstadtijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
