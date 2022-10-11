@@ -259,7 +259,3 @@ function Jods(){
    document.getElementById("bilde").src=""
 }
 
-function Ksenons(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
-   document.getElementById("bilde").src=""
-}
