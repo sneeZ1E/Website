@@ -368,3 +368,97 @@ function Darmstadtijs(){
     document.getElementById("teksts").innerHTML="Ksenons ir labs"
    document.getElementById("bilde").src=""
 }
+function Rentgenijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Kopernicijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Ununtrijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Flerovijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Ununpentijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Livermorijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Ununseptijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Ununoktijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Lantans(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Cerijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Praziodims(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Neodims(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Prometijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Samarijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Eiropijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Gadolinijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Terbijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Disprozijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Holmijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Erbijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Tulijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Iterbijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Lutecijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+
+
