@@ -176,9 +176,8 @@ function Kriptons(){
 
 function Rubidijs(){
     document.getElementById("teksts").innerHTML="Rubīdijs ir labs"
-   document.getElementById("bilde").src=""
+   document.getElementById("bilde").src=""  
 }
-
 function Stroncijs(){
     document.getElementById("teksts").innerHTML="Stroncijs ir labs"
    document.getElementById("bilde").src=""
@@ -259,3 +258,75 @@ function Jods(){
    document.getElementById("bilde").src=""
 }
 
+function Ksenons(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Cezijs(){
+    document.getElementById("teksts").innerHTML="Cēzijs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Barijs(){
+    document.getElementById("teksts").innerHTML="Bārijs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Hafnijs(){
+    document.getElementById("teksts").innerHTML="Hafnijs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Tantals(){
+    document.getElementById("teksts").innerHTML="Tantals ir labs"
+   document.getElementById("bilde").src=""
+}
+function Volframs(){
+    document.getElementById("teksts").innerHTML="Volframs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Renijs(){
+    document.getElementById("teksts").innerHTML="Rēnijs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Osmijs(){
+    document.getElementById("teksts").innerHTML="Osmijs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Iridijs(){
+    document.getElementById("teksts").innerHTML="Irīdijs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Platins(){
+    document.getElementById("teksts").innerHTML="Platīns ir labs"
+   document.getElementById("bilde").src=""
+}
+function Zelts(){
+    document.getElementById("teksts").innerHTML="Zelts ir labs"
+   document.getElementById("bilde").src=""
+}
+function Dzivsudrabs(){
+    document.getElementById("teksts").innerHTML="Dzīvsudrabs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Tallijs(){
+    document.getElementById("teksts").innerHTML="Tallijs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Svins(){
+    document.getElementById("teksts").innerHTML="Svins ir labs"
+   document.getElementById("bilde").src=""
+}
+function Bismuts(){
+    document.getElementById("teksts").innerHTML="Bismuts ir labs"
+   document.getElementById("bilde").src=""
+}
+function Polonijs(){
+    document.getElementById("teksts").innerHTML="Polonijs ir labs"
+   document.getElementById("bilde").src=""
+}
+function Astats(){
+    document.getElementById("teksts").innerHTML="Astats ir labs"
+   document.getElementById("bilde").src=""
+}
+function Radons(){
+    document.getElementById("teksts").innerHTML="Radons ir labs"
+   document.getElementById("bilde").src=""
+}
