@@ -460,5 +460,64 @@ function Lutecijs(){
     document.getElementById("teksts").innerHTML="Ksenons ir labs"
    document.getElementById("bilde").src=""
 }
-
+function Aktinijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Torijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Protaktinijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Urans(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Neptunijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Plutonijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Americijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Kirijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Berklijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Kalifornijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Einsteinijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Fermijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Mendelejevijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Nobelijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Lourensijs(){
+    document.getElementById("teksts").innerHTML="Lourensijs ir labs"
+   document.getElementById("bilde").src=""
+}
 
