@@ -200,7 +200,7 @@ function Niobijs(){
 }
 
 function Molibdens(){
-    document.getElementById("teksts").innerHTML="Molibdēnu pamatā lieto sakausējumos ar dzelzi, ķīmiskā elementa nosaukums ir radies no grieķu vārda μόλυβδος (mólybdos). Molibdēns mikrodaudzumos nepieciešams augu normālai attīstībai. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Molibdēnu pamatā lieto sakausējumos ar dzelzi, ķīmiskā elementa nosaukums ir radies no grieķu vārda μόλυβδος (mólybdos). Molibdēns mikrodaudzumos nepieciešams augu normālai attīstībai. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Molibd%C4%93ns'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
