@@ -20,83 +20,83 @@ function magnijs(){
 }
 
 function aluminijs(){
-    document.getElementById("teksts").innerHTML="Alumīnijs dabā nav sastopams brīvā veidā, galvenokārt alumīnija oksīda veidā, kā arī alumosilikātos."
+    document.getElementById("teksts").innerHTML="Alumīnijs dabā nav sastopams brīvā veidā, galvenokārt alumīnija oksīda veidā, kā arī alumosilikātos. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function litijs(){
-    document.getElementById("teksts").innerHTML="Litijs ir sārmu metāls, jo ir ķīmiski ļoti aktīvs, tāpēc brīvā veidā dabā nav sastopams.Dabā, savienojumu veidā litijs ir sastopams vairākos minerālos."
+    document.getElementById("teksts").innerHTML="Litijs ir sārmu metāls, jo ir ķīmiski ļoti aktīvs, tāpēc brīvā veidā dabā nav sastopams.Dabā, savienojumu veidā litijs ir sastopams vairākos minerālos. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function berilijs(){
-    document.getElementById("teksts").innerHTML="Berilijs ir labs"
+    document.getElementById("teksts").innerHTML="Berilija ķīmiskā elementa nosaukums ir atvasināts no minerāla berila nosaukuma, no kura rūdām tas tiek iegūts. Dabā berilijs brīvā veidā nav sastopams. Savienojumos tas parasti ir divvērtīgs. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function bors(){
-    document.getElementById("teksts").innerHTML="Bors ir labs"
+    document.getElementById("teksts").innerHTML="Bors dabā ir sastopams galvenokārt borskābes, sāļu veidā. Tīrā veidā bors ir cieta kristāliska viela. Boram ir iespējamas vairākas alotropiskās formas. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function ogleklis(){
-    document.getElementById("teksts").innerHTML="Ogleklis ir labs"
+    document.getElementById("teksts").innerHTML="Ogleklis ietilpst visu organisko vielu sastāvā. Ogleklim ir divas stabilas alotropiskās formas: grafīts un dimants. Ogleklis ir viena no grūtāk kūstošajām vielām (grafīta formā). Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function slapeklis(){
-    document.getElementById("teksts").innerHTML="Slāpeklis ir labs"
+    document.getElementById("teksts").innerHTML="Slāpeklis ir divatomu gāze, kuras ķīmiskā formula ir N2. Dabā slāpeklis ir sastopams atmosfērā, kur tas ir galvenā gaisa sastāvdaļa. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function skabeklis(){
-    document.getElementById("teksts").innerHTML="Skābeklis ir labs"
+    document.getElementById("teksts").innerHTML="Skābeklis ir tipisks nemetāls. Normālos apstākļos skābeklis veido vienkāršo vielu, kam ir divatomu molekulas ar ķīmisko formulu O2. Molekulārajam skābeklim nav ne krāsas, ne smaržas, ne garšas. Brīvā veidā skābeklis ir sastopams gaisa sastāvā. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function fluors(){
-    document.getElementById("teksts").innerHTML="Fluors ir labs"
+    document.getElementById("teksts").innerHTML="Fluors brīvā veidā ir nemetāls, tas ir pieskaitāms pie halogēniem un ir visaktīvākais[1] no visām vienkāršajām vielām, kā arī ir stipri indīga viela. Normālos apstākļos fluors ir gāzveida viela, kas ir grūti iegūstama tīrā veidā. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function neons(){
-    document.getElementById("teksts").innerHTML="Neons ir labs"
+    document.getElementById("teksts").innerHTML="Neons ir ķīmiskais elements — cēlgāze, un tas ir ķīmiski inerts un neveido savienojumus. Neons ir viens no visizplatītākajiem elementiem Visumā. Bet uz Zemes neons nav tik izplatīts ķīmiskais elements. Dabā neons ir sastopams gaisa sastāvā, un no gaisa to arī iegūst. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function silicijs(){
-    document.getElementById("teksts").innerHTML="Silīcijs ir labs"
+    document.getElementById("teksts").innerHTML="Silīcijs dabā brīvā veidā ir sastopams ļoti reti (ieslēgumu veidā iežos), bet lielos daudzumos ir sastopams oksīda SiO2 veidā, kā arī alumosilikātos. Brīvā veidā silīcijs var būt pelēka kristāliskā viela (kristāliskā modifikācija), vai arī brūns pulveris (amorfā modifikācija). Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function fosfors(){
-    document.getElementById("teksts").innerHTML="Fosfors ir labs"
+    document.getElementById("teksts").innerHTML="Fosfors ir nemetāls. Dabā tas brīvā veidā nav sastopams, bet ir sastopams fosforskābes sāļu — fosfātu veidā. Brīvā veidā fosforam visvairāk pazīstamas 3 alotropiskās formas: baltais fosfors, sarkanais fosfors un melnais fosfors. Ir arī citas modifikācijas, kas bieži ir iepriekšējo triju variācijas. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function sers(){
-    document.getElementById("teksts").innerHTML="Sērs ir labs"
+    document.getElementById("teksts").innerHTML="Sērs ir nemetāls, kurš pieskaitāms pie halkogēniem, lai arī bieži vien šo grupu īpaši neizdala. Sērs deg (bet diezgan slikti), ar zilu liesmu, veidojot sēra dioksīdu. Rūpnieciski nozīmīgākais sēra savienojums ir sērskābe. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function hlors(){
-    document.getElementById("teksts").innerHTML="Hlors ir labs"
+    document.getElementById("teksts").innerHTML="Hlors pieder pie halogēniem un tam piemīt tipiskas nemetālu īpašības. Brīvā veidā hlors ir toksiska, korozīva, relatīvi viegli sašķidrināma gāze, kas sastāv no divatomu molekulām Cl2. Brīvā veidā dabā hlors ir sastopams dažās vulkāniskajās gāzēs. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function argons(){
-    document.getElementById("teksts").innerHTML="Argons ir labs"
+    document.getElementById("teksts").innerHTML="Argons ir viena no cēlgāzēm. Argons dabā ir sastopams brīvā veidā, gaisa sastāvā. Tas sastāda 0,93% no Zemes atmosfēras. Līdz ar to tā ir trešā izplatītākā gāze. Argons neveido stabilus ķīmiskos savienojumus. Šī iemesla dēļ tas ieguva savu nosaukumu no grieķu vārda αργον (argon), kas nozīmē slinks, bezdarbīgs. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Kalijs(){
-    document.getElementById("teksts").innerHTML="Kālijs ir labs"
+    document.getElementById("teksts").innerHTML="Kālijs ir viens no sārmu metāliem. Dabā brīvā veidā šis elements nav sastopams, jo ķīmiski ir ļoti aktīvs. Brīvā veidā kāliju iegūst, elektrolizējot tā savienojumu — parasti hlorīda vai hidroksīda kausējumus. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Kalcijs(){
-    document.getElementById("teksts").innerHTML="Kalcijs ir labs"
+    document.getElementById("teksts").innerHTML="Kalcijs ir sārmzemju metāls, tas ir mīksts, sudrabaini balts metāls, bet dabā tas brīvā veidā nav sastopams, atrodams vienīgi savienojumu veidā. Kalcijs ir piektais visbiežāk sastopamais ķīmiskais elements Zemes garozā. Vairums kalcija savienojumi ir baltas cietvielas. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Skandijs(){
-    document.getElementById("teksts").innerHTML="Skandijs ir labs"
+    document.getElementById("teksts").innerHTML="Skandijs ir ļoti reti sastopams, izkliedēts pārejas metāls un nelielos daudzumos ir sastopams dažādos minerālos. Skandijs ir pirmais d elements periodiskajā sistēmā — tā atomā elektroni sāk aizpildīt d līmeni trešajā čaulā. Skandiju iegūst metalotermiski vai elektrolizējot skandija hlorīda kausējumu. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
