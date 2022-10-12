@@ -101,12 +101,12 @@ function Skandijs(){
 }
 
 function Titans(){
-    document.getElementById("teksts").innerHTML="Titāns ir viegls, stiprs, spožs un korozijas izturīgs pārejas metāls sudraba krāsā. To nespēj saēst pat jūras ūdens un hlors. Lai gan dabā titāns nav sastopams brīvā veidā, tas ir devītais izplatītākais elements Zemes garozā. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Titāns ir viegls, stiprs, spožs un korozijas izturīgs pārejas metāls sudraba krāsā. To nespēj saēst pat jūras ūdens un hlors. Lai gan dabā titāns nav sastopams brīvā veidā, tas ir devītais izplatītākais elements Zemes garozā. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Tit%C4%81ns'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Vanadijs(){
-    document.getElementById("teksts").innerHTML="Vanādijs ir sudrabbalts un mīksts 5. grupas pārejas metāls. Vanādijs dabā nav sastopams brīvā veidā, lielāko daļu vanādija iegūst no polimetāliskajām rūdām. Vairāk informācijas "
+    document.getElementById("teksts").innerHTML="Vanādijs ir sudrabbalts un mīksts 5. grupas pārejas metāls. Vanādijs dabā nav sastopams brīvā veidā, lielāko daļu vanādija iegūst no polimetāliskajām rūdām. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Van%C4%81dijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
