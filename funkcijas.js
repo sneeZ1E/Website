@@ -24,7 +24,7 @@ function aluminijs(){
    document.getElementById("bilde").src=""
 }
 function litijs(){
-    document.getElementById("teksts").innerHTML="Litijs ir sārmu metāls, jo ir ķīmiski ļoti aktīvs, tāpēc brīvā veidā dabā nav sastopams.Dabā, savienojumu veidā litijs ir sastopams vairākos minerālos. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Litijs ir sārmu metāls, jo ir ķīmiski ļoti aktīvs, tāpēc brīvā veidā dabā nav sastopams. Dabā, savienojumu veidā litijs ir sastopams vairākos minerālos."
    document.getElementById("bilde").src=""
 }
 function berilijs(){
@@ -101,12 +101,12 @@ function Skandijs(){
 }
 
 function Titans(){
-    document.getElementById("teksts").innerHTML="Titāns ir viegls, stiprs, spožs un korozijas izturīgs pārejas metāls sudraba krāsā. To nespēj saēst pat jūras ūdens un hlors. Lai gan dabā titāns nav sastopams brīvā veidā, tas ir devītais izplatītākais elements Zemes garozā. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Titāns ir viegls, stiprs, spožs un korozijas izturīgs pārejas metāls sudraba krāsā. To nespēj saēst pat jūras ūdens un hlors. Lai gan dabā titāns nav sastopams brīvā veidā, tas ir devītais izplatītākais elements Zemes garozā. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Tit%C4%81ns'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Vanadijs(){
-    document.getElementById("teksts").innerHTML="Vanādijs ir sudrabbalts un mīksts 5. grupas pārejas metāls. Vanādijs dabā nav sastopams brīvā veidā, lielāko daļu vanādija iegūst no polimetāliskajām rūdām. Vairāk informācijas "
+    document.getElementById("teksts").innerHTML="Vanādijs ir sudrabbalts un mīksts 5. grupas pārejas metāls. Vanādijs dabā nav sastopams brīvā veidā, lielāko daļu vanādija iegūst no polimetāliskajām rūdām. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Van%C4%81dijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
@@ -304,51 +304,51 @@ function Zelts(){
    document.getElementById("bilde").src=""
 }
 function Dzivsudrabs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Dzīvsudrabs ir samērā inerts metāls ar viszemāko kušanas temperatūru — normālos apstākļos dzīvsudrabs ir šķidrums. Dabā dzīvsudrabs ievērojamos daudzumos ir sastopams oksīda veidā. Dzīvsudraba tvaiki un šķīstošie dzīvsudraba savienojumi ir indīgi."
    document.getElementById("bilde").src=""
 }
 function Tallijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Tallijs ir viegli kūstošs, sudrabbalts, samērā aktīvs metāls un reaģē ar gaisa skābekli, lēni oksidējoties. Talliju iegūst galvenokārt no vara, cinka un citu metālu sulfīdu rūdām."
    document.getElementById("bilde").src=""
 }
 function Svins(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Svins ir toksisks smagais metāls ar relatīvi labu korozijas izturību. Brīvā veidā svins dabā ir sastopams ļoti reti. Svins veidojas arī daudzu smago radioaktīvo izotopu sabrukšanas procesā. Lielu daļu svina iegūst no sulfīdu rūdas, ir sastopamas arī karbonātu un sulfātu rūdas"
    document.getElementById("bilde").src=""
 }
 function Bismuts(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Bismuts dabā brīvā veidā sastopams ļoti reti, to iegūst no sulfīdu un oksīdu rūdām. Bismuts ir smags metāls, un tas ir mazāk toksisks kā svins."
    document.getElementById("bilde").src=""
 }
 function Polonijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Polonijs ir reti sastopams, galvenokārt urāna rūdās. Visi polonija izotopi ir radioaktīvi. Pēc ķīmiskajām īpašībām polonijs ir līdzīgs bismutam un telūram."
    document.getElementById("bilde").src=""
 }
 function Astats(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Astats ir radioaktīvs un dabā niecīgos daudzumos ir sastopams urāna rūdās. Astats ir smagākais halogēns. Visi astata izotopi ir radioaktīvi."
    document.getElementById("bilde").src=""
 }
 function Radons(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Radons ir smaga, radioaktīva un bezkrāsaina cēlgāze. Radons ir ķīmiski inerts un galvenie pielietojumi ir saistīti ar tā radioaktivitāti."
    document.getElementById("bilde").src=""
 }
 
 function Francijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Francijs ir sārmu metāls, kuram ir zemākā elektronegativitāte no visiem zināmajiem elementiem. Visi francija izotopi ir radioaktīvi."
    document.getElementById("bilde").src=""
 }
 function Radijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Rādiju 1898. gadā Parīzē atklāja dzīvesbiedri fiziķi Pjērs Kirī un Marija Kirī. Rādiju dažreiz pieskaita pie sārmzemju metāliem."
    document.getElementById("bilde").src=""
 }
 function Rezerfordijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Rezerfordijs nav sastopams dabā, to iegūst tikai laboratorijās. Tas ir ļoti radioaktīvs metāls."
    document.getElementById("bilde").src=""
 }
 function Dubnijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Tas ir ļoti radioaktīvs."
    document.getElementById("bilde").src=""
 }
-function Siborgijs(){
+function Sibordzijs(){
     document.getElementById("teksts").innerHTML="Ksenons ir labs"
    document.getElementById("bilde").src=""
 }
