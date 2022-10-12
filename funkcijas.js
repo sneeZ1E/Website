@@ -101,12 +101,12 @@ function Skandijs(){
 }
 
 function Titans(){
-    document.getElementById("teksts").innerHTML="Titāns ir viegls, stiprs, spožs un korozijas izturīgs pārejas metāls sudraba krāsā. To nespēj saēst pat jūras ūdens un hlors. Lai gan dabā titāns nav sastopams brīvā veidā, tas ir devītais izplatītākais elements Zemes garozā. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Titāns ir viegls, stiprs, spožs un korozijas izturīgs pārejas metāls sudraba krāsā. To nespēj saēst pat jūras ūdens un hlors. Lai gan dabā titāns nav sastopams brīvā veidā, tas ir devītais izplatītākais elements Zemes garozā. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Tit%C4%81ns'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Vanadijs(){
-    document.getElementById("teksts").innerHTML="Vanādijs ir sudrabbalts un mīksts 5. grupas pārejas metāls. Vanādijs dabā nav sastopams brīvā veidā, lielāko daļu vanādija iegūst no polimetāliskajām rūdām. Vairāk informācijas "
+    document.getElementById("teksts").innerHTML="Vanādijs ir sudrabbalts un mīksts 5. grupas pārejas metāls. Vanādijs dabā nav sastopams brīvā veidā, lielāko daļu vanādija iegūst no polimetāliskajām rūdām. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Van%C4%81dijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
@@ -200,155 +200,155 @@ function Niobijs(){
 }
 
 function Molibdens(){
-    document.getElementById("teksts").innerHTML="Molibdēnu pamatā lieto sakausējumos ar dzelzi, ķīmiskā elementa nosaukums ir radies no grieķu vārda μόλυβδος (mólybdos). Molibdēns mikrodaudzumos nepieciešams augu normālai attīstībai."
+    document.getElementById("teksts").innerHTML="Molibdēnu pamatā lieto sakausējumos ar dzelzi, ķīmiskā elementa nosaukums ir radies no grieķu vārda μόλυβδος (mólybdos). Molibdēns mikrodaudzumos nepieciešams augu normālai attīstībai. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Molibd%C4%93ns'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Tehnecijs(){
-    document.getElementById("teksts").innerHTML="Tas ir sintētisks elements, kurš ir iegūts mākslīgi kodolreaktoros. Tā kā šo elementu ieguva mākslīgi, to nosauca par tehnēciju, jo grieķu valodas vārds τεχνητός (technētos) nozīmē ‘mākslīgs’."
+    document.getElementById("teksts").innerHTML="Tas ir sintētisks elements, kurš ir iegūts mākslīgi kodolreaktoros. Tā kā šo elementu ieguva mākslīgi, to nosauca par tehnēciju, jo grieķu valodas vārds τεχνητός (technētos) nozīmē ‘mākslīgs’. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Rutenijs(){
-    document.getElementById("teksts").innerHTML=" Tas ir sastopams kā piemaisījums platīna rūdām. Ķīmiskā elementa nosaukums ir radies no vārda Ruthenia, kas ir Kijevas Krievzemes nosaukums latīņu valodā"
+    document.getElementById("teksts").innerHTML=" Tas ir sastopams kā piemaisījums platīna rūdām. Ķīmiskā elementa nosaukums ir radies no vārda Ruthenia, kas ir Kijevas Krievzemes nosaukums latīņu valodā. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Rodijs(){
-    document.getElementById("teksts").innerHTML="Rodijs ir smags cēlmetāls, un tam ir laba korozijas izturība. Elementa nosaukums ir radies no grieķu vārda ῥόδον (rhódon), kas nozīmē ‘roze’, jo tā sāļu šķīdumi ir rožaini sarkanā krāsā."
+    document.getElementById("teksts").innerHTML="Rodijs ir smags cēlmetāls, un tam ir laba korozijas izturība. Elementa nosaukums ir radies no grieķu vārda ῥόδον (rhódon), kas nozīmē ‘roze’, jo tā sāļu šķīdumi ir rožaini sarkanā krāsā. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Palladijs(){
-    document.getElementById("teksts").innerHTML=" Pallādijs ir relatīvi mīksts dārgmetāls, to iegūst no vara un niķeļa rūdām. Elements tika nosaukts par godu asteroīdam 2 Pallāda."
+    document.getElementById("teksts").innerHTML=" Pallādijs ir relatīvi mīksts dārgmetāls, to iegūst no vara un niķeļa rūdām. Elements tika nosaukts par godu asteroīdam 2 Pallāda. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Sudrabs(){
-    document.getElementById("teksts").innerHTML=" Sudrabs ir metāls ar vislielāko elektrovadītspēju un siltumvadītspēju. Sudrabs bija zināms metāls jau senajos laikos, no tā darinātās rotaslietas ir tikušas uzietas vairākās apbedījumu vietās, kas pastāv jau kopš 4000. gadu p.m.ē."
+    document.getElementById("teksts").innerHTML=" Sudrabs ir metāls ar vislielāko elektrovadītspēju un siltumvadītspēju. Sudrabs bija zināms metāls jau senajos laikos, no tā darinātās rotaslietas ir tikušas uzietas vairākās apbedījumu vietās, kas pastāv jau kopš 4000. gadu p.m.ē. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Kadmijs(){
-    document.getElementById("teksts").innerHTML=" Kadmijs ir samērā mīksts, toksisks metāls. Elementa nosaukums ir radies no kalamīna (latīņu: cadmia) nosaukuma, kas ir cinka oksīds ar nelielu dzelzs(III) oksīda Fe2O3 piejaukumu."
+    document.getElementById("teksts").innerHTML=" Kadmijs ir samērā mīksts, toksisks metāls. Elementa nosaukums ir radies no kalamīna (latīņu: cadmia) nosaukuma, kas ir cinka oksīds ar nelielu dzelzs(III) oksīda Fe2O3 piejaukumu. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Indijs(){
-    document.getElementById("teksts").innerHTML="Indijs dabā galvenokārt ir sastopams kā piemaisījums cinka rūdām, Indijs ir samērā mīksts metāls. Elementa nosaukums ir radies no tā spektrāllīniju krāsas. Šī krāsa ir indigo zila. No grieķu valodas indikon nozīmē ‘zilā krāsa’. "
+    document.getElementById("teksts").innerHTML="Indijs dabā galvenokārt ir sastopams kā piemaisījums cinka rūdām, Indijs ir samērā mīksts metāls. Elementa nosaukums ir radies no tā spektrāllīniju krāsas. Šī krāsa ir indigo zila. No grieķu valodas indikon nozīmē ‘zilā krāsa’. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Alva(){
-    document.getElementById("teksts").innerHTML="Alva ir samērā viegli kūstošs metāls, kuru lieto galvenokārt dažādos viegli kūstošos sakausējumos (piemēram, lodalva) un grūti kūstošos sakausējumos (bronza)."
+    document.getElementById("teksts").innerHTML="Alva ir samērā viegli kūstošs metāls, kuru lieto galvenokārt dažādos viegli kūstošos sakausējumos (piemēram, lodalva) un grūti kūstošos sakausējumos (bronza). Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Antimons(){
-    document.getElementById("teksts").innerHTML="Tas ir spoži pelēks pusmetāls, kas dabā galvenokārt ir sastopams sulfīda minerāla antimonīta (Sb2S3) sastāvā, lai gan var būt sastopams arī brīvā veidā. Antimonu galvenokārt lieto sakausējumos ar svinu un alvu, lai palielinātu to mehānisko izturību."
+    document.getElementById("teksts").innerHTML="Tas ir spoži pelēks pusmetāls, kas dabā galvenokārt ir sastopams sulfīda minerāla antimonīta (Sb2S3) sastāvā, lai gan var būt sastopams arī brīvā veidā. Antimonu galvenokārt lieto sakausējumos ar svinu un alvu, lai palielinātu to mehānisko izturību. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Telurs(){
-    document.getElementById("teksts").innerHTML="Telūrs ir pusmetāls, kam piemīt gan metālu, gan nemetālu īpašības. Dabā telūrs parasti ir sastopams telurīdu veidā, lai gan var būt sastopams arī brīvā veidā. Nosaukums ir radies no latīņu vārda Tellus, kas romiešiem bija zemes dieviete."
+    document.getElementById("teksts").innerHTML="Telūrs ir pusmetāls, kam piemīt gan metālu, gan nemetālu īpašības. Dabā telūrs parasti ir sastopams telurīdu veidā, lai gan var būt sastopams arī brīvā veidā. Nosaukums ir radies no latīņu vārda Tellus, kas romiešiem bija zemes dieviete. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Jods(){
-    document.getElementById("teksts").innerHTML="Jods ir smagākais neradioaktīvais halogēns, tas  dabā ir sastopams jodīdu veidā. Sadzīvē par jodu dažkārt dēvē medicīnisko joda tinktūru - joda un kālija jodīda šķīdumu etanolā."
+    document.getElementById("teksts").innerHTML="Jods ir smagākais neradioaktīvais halogēns, tas  dabā ir sastopams jodīdu veidā. Sadzīvē par jodu dažkārt dēvē medicīnisko joda tinktūru - joda un kālija jodīda šķīdumu etanolā. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Ksenons(){
-    document.getElementById("teksts").innerHTML="Ksenons ir salīdzinoši smaga cēlgāze bez krāsas un smaržas, kura brīvā veidā nelielos daudzumos ir sastopama arī Zemes atmosfērā. Elementa nosaukums ir radies no grieķu vārda ξένος (xénos), kas nozīmē svešzemju"
+    document.getElementById("teksts").innerHTML="Ksenons ir salīdzinoši smaga cēlgāze bez krāsas un smaržas, kura brīvā veidā nelielos daudzumos ir sastopama arī Zemes atmosfērā. Elementa nosaukums ir radies no grieķu vārda ξένος (xénos), kas nozīmē svešzemju. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Cezijs(){
-    document.getElementById("teksts").innerHTML=" Dabā cēzijs ir sastopams dažos minerālos. Savienojumos cēzijs var būt tikai vienvērtīgs. Elementa nosaukums radās tieši no tā unikālajām zilajām līnijām spektrā (latīņu: caesius — ‘debesszils’)."
+    document.getElementById("teksts").innerHTML=" Dabā cēzijs ir sastopams dažos minerālos. Savienojumos cēzijs var būt tikai vienvērtīgs. Elementa nosaukums radās tieši no tā unikālajām zilajām līnijām spektrā (latīņu: caesius — ‘debesszils’). Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Barijs(){
-    document.getElementById("teksts").innerHTML=" Bārijs ir ķīmiski aktīvs, tāpēc dabā nav sastopams brīvā veidā, bet galvenokārt karbonātu un sulfātu veidā. Tīrā veidā bāriju 1808. gadā elektrolīzes procesā no bārija oksīda pirmo reizi izolēja angļu ķīmiķis Hamfrijs Deivijs."
+    document.getElementById("teksts").innerHTML=" Bārijs ir ķīmiski aktīvs, tāpēc dabā nav sastopams brīvā veidā, bet galvenokārt karbonātu un sulfātu veidā. Tīrā veidā bāriju 1808. gadā elektrolīzes procesā no bārija oksīda pirmo reizi izolēja angļu ķīmiķis Hamfrijs Deivijs. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Hafnijs(){
-    document.getElementById("teksts").innerHTML="Hafnijs ir korozijas izturīgs pārejas metāls. Hafnija karbīdam un nitrīdam ir ļoti augstas kušanas temperatūras. Elements ir nosaukts par godu Dānijas galvaspilsētai Kopenhāgenai (latīņu: Hafnia), kur abi zinātnieki strādāja, kad veica atklājumu."
+    document.getElementById("teksts").innerHTML="Hafnijs ir korozijas izturīgs pārejas metāls. Hafnija karbīdam un nitrīdam ir ļoti augstas kušanas temperatūras. Elements ir nosaukts par godu Dānijas galvaspilsētai Kopenhāgenai (latīņu: Hafnia), kur abi zinātnieki strādāja, kad veica atklājumu. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Tantals(){
-    document.getElementById("teksts").innerHTML="Tas ir korozijas izturīgs pārejas metāls un ir sastopams minerālā tantalītā. Tantalu lieto galvenokārt elektrolītiskajiem kondensatoriem. Tantals tika nosaukts sengrieķu mitoloģiskā tēla Tantala vārdā."
+    document.getElementById("teksts").innerHTML="Tas ir korozijas izturīgs pārejas metāls un ir sastopams minerālā tantalītā. Tantalu lieto galvenokārt elektrolītiskajiem kondensatoriem. Tantals tika nosaukts sengrieķu mitoloģiskā tēla Tantala vārdā. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Volframs(){
-    document.getElementById("teksts").innerHTML="Volframs ir viens no cietākajiem un grūtkūstošākajiem metāliem. Dabā volframs ir sastopams oksīdu rūdās. Volframu 1781. gadā atklāja zviedru ķīmiķis Kārlis Vilhelms Šēle. 1783."
+    document.getElementById("teksts").innerHTML="Volframs ir viens no cietākajiem un grūtkūstošākajiem metāliem. Dabā volframs ir sastopams oksīdu rūdās. Volframu 1781. gadā atklāja zviedru ķīmiķis Kārlis Vilhelms Šēle. 1783. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Renijs(){
-    document.getElementById("teksts").innerHTML=" Rēnijs ir mangāna grupas elements. Tas ir sudrabbalts un smags cēlmetāls. Elementa nosaukums ir radies no Reinas upes latīniskā nosaukuma Rhenus."
+    document.getElementById("teksts").innerHTML=" Rēnijs ir mangāna grupas elements. Tas ir sudrabbalts un smags cēlmetāls. Elementa nosaukums ir radies no Reinas upes latīniskā nosaukuma Rhenus. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Osmijs(){
-    document.getElementById("teksts").innerHTML="Osmijs ir visblīvākais metāls. Dabā tas ir sastopams kā piemaisījums platīnam. Elementa nosaukums ir radies no grieķu vārda ὀσμή (ósmé), kas nozīmē ‘smarža, smaka."
+    document.getElementById("teksts").innerHTML="Osmijs ir visblīvākais metāls. Dabā tas ir sastopams kā piemaisījums platīnam. Elementa nosaukums ir radies no grieķu vārda ὀσμή (ósmé), kas nozīmē ‘smarža, smaka. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Irdijs(){
-    document.getElementById("teksts").innerHTML="Dabā ir ļoti reti sastopams, galvenokārt kā piemaisījums platīna tīrradņiem. Relatīvi lielos daudzumos to var atrast meteorītos. Irīdija nosaukums cēlies no grieķu vārda ἶρις (iris) — varavīksne, jo irīdija sāļi ir daudzkrāsaini."
+    document.getElementById("teksts").innerHTML="Dabā ir ļoti reti sastopams, galvenokārt kā piemaisījums platīna tīrradņiem. Relatīvi lielos daudzumos to var atrast meteorītos. Irīdija nosaukums cēlies no grieķu vārda ἶρις (iris) — varavīksne, jo irīdija sāļi ir daudzkrāsaini. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Platins(){
-    document.getElementById("teksts").innerHTML=" Platīns ir blīvs, kaļams, elastīgs un korozijas izturīgs pelēkbalts pārejas metāls. 1803. gadā platīns pirmo reizi tika iegūts tīrā veidā no rūdas."
+    document.getElementById("teksts").innerHTML=" Platīns ir blīvs, kaļams, elastīgs un korozijas izturīgs pelēkbalts pārejas metāls. 1803. gadā platīns pirmo reizi tika iegūts tīrā veidā no rūdas. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Zelts(){
-    document.getElementById("teksts").innerHTML="Zelts jau vairākus tūkstošus gadu ir izmantots dažādos rituālos un rotaslietās. Kopš 6. gadsimta p.m.ē. no zelta izgatavotās monētas ir izmantotas kā norēķinu līdzekļi. Arī mūsdienās zelts joprojām tiek izmantots naudas izgatavošanā."
+    document.getElementById("teksts").innerHTML="Zelts jau vairākus tūkstošus gadu ir izmantots dažādos rituālos un rotaslietās. Kopš 6. gadsimta p.m.ē. no zelta izgatavotās monētas ir izmantotas kā norēķinu līdzekļi. Arī mūsdienās zelts joprojām tiek izmantots naudas izgatavošanā. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 function Dzivsudrabs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Dzīvsudrabs ir samērā inerts metāls ar viszemāko kušanas temperatūru — normālos apstākļos dzīvsudrabs ir šķidrums. Dabā dzīvsudrabs ievērojamos daudzumos ir sastopams oksīda veidā. Dzīvsudraba tvaiki un šķīstošie dzīvsudraba savienojumi ir indīgi."
    document.getElementById("bilde").src=""
 }
 function Tallijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Tallijs ir viegli kūstošs, sudrabbalts, samērā aktīvs metāls un reaģē ar gaisa skābekli, lēni oksidējoties. Talliju iegūst galvenokārt no vara, cinka un citu metālu sulfīdu rūdām."
    document.getElementById("bilde").src=""
 }
 function Svins(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Svins ir toksisks smagais metāls ar relatīvi labu korozijas izturību. Brīvā veidā svins dabā ir sastopams ļoti reti. Svins veidojas arī daudzu smago radioaktīvo izotopu sabrukšanas procesā. Lielu daļu svina iegūst no sulfīdu rūdas, ir sastopamas arī karbonātu un sulfātu rūdas"
    document.getElementById("bilde").src=""
 }
 function Bismuts(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Bismuts dabā brīvā veidā sastopams ļoti reti, to iegūst no sulfīdu un oksīdu rūdām. Bismuts ir smags metāls, un tas ir mazāk toksisks kā svins."
    document.getElementById("bilde").src=""
 }
 function Polonijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Polonijs ir reti sastopams, galvenokārt urāna rūdās. Visi polonija izotopi ir radioaktīvi. Pēc ķīmiskajām īpašībām polonijs ir līdzīgs bismutam un telūram."
    document.getElementById("bilde").src=""
 }
 function Astats(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Astats ir radioaktīvs un dabā niecīgos daudzumos ir sastopams urāna rūdās. Astats ir smagākais halogēns. Visi astata izotopi ir radioaktīvi."
    document.getElementById("bilde").src=""
 }
 function Radons(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Radons ir smaga, radioaktīva un bezkrāsaina cēlgāze. Radons ir ķīmiski inerts un galvenie pielietojumi ir saistīti ar tā radioaktivitāti."
    document.getElementById("bilde").src=""
 }
 
 function Francijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Francijs ir sārmu metāls, kuram ir zemākā elektronegativitāte no visiem zināmajiem elementiem. Visi francija izotopi ir radioaktīvi."
    document.getElementById("bilde").src=""
 }
 function Radijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Rādiju 1898. gadā Parīzē atklāja dzīvesbiedri fiziķi Pjērs Kirī un Marija Kirī. Rādiju dažreiz pieskaita pie sārmzemju metāliem."
    document.getElementById("bilde").src=""
 }
 function Rezerfordijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Rezerfordijs nav sastopams dabā, to iegūst tikai laboratorijās. Tas ir ļoti radioaktīvs metāls."
    document.getElementById("bilde").src=""
 }
 function Dubnijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Tas ir ļoti radioaktīvs."
    document.getElementById("bilde").src=""
 }
-function Siborgijs(){
+function Sibordzijs(){
     document.getElementById("teksts").innerHTML="Ksenons ir labs"
    document.getElementById("bilde").src=""
 }
