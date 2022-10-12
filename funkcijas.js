@@ -101,101 +101,101 @@ function Skandijs(){
 }
 
 function Titans(){
-    document.getElementById("teksts").innerHTML="Titāns ir labs"
+    document.getElementById("teksts").innerHTML="Titāns ir viegls, stiprs, spožs un korozijas izturīgs pārejas metāls sudraba krāsā. To nespēj saēst pat jūras ūdens un hlors. Lai gan dabā titāns nav sastopams brīvā veidā, tas ir devītais izplatītākais elements Zemes garozā. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Vanadijs(){
-    document.getElementById("teksts").innerHTML="Vanādijs ir labs"
+    document.getElementById("teksts").innerHTML="Vanādijs ir sudrabbalts un mīksts 5. grupas pārejas metāls. Vanādijs dabā nav sastopams brīvā veidā, lielāko daļu vanādija iegūst no polimetāliskajām rūdām. Vairāk informācijas "
    document.getElementById("bilde").src=""
 }
 
 function Hroms(){
-    document.getElementById("teksts").innerHTML="Hroms ir labs"
+    document.getElementById("teksts").innerHTML="Hroms ir ciets un korozijas izturīgs metāls, kuru lieto dzelzs sakausējumu pārklāšanai un sakausējumiem. Dabā hroms reti ir sastopams brīvā veidā, taču rūpnieciski hromu iegūst no hroma rūdām. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Mangans(){
-    document.getElementById("teksts").innerHTML="Mangāns ir labs"
+    document.getElementById("teksts").innerHTML="Mangāns ir pārejas metāls, kas pieder pie d elementiem. Tā valences elektronu konfigurācija līdzīga tehnēcija un rēnija elektronu konfigurācijai, tādēļ šo elementu īpašības ir līdzīgas. Vairāk informācijas "
    document.getElementById("bilde").src=""
 }
 
 function Dzelzs(){
-    document.getElementById("teksts").innerHTML="Dzelzs ir labs"
+    document.getElementById("teksts").innerHTML="Dzelzs ir ļoti izplatīts metāls, un to uzskata par desmito visizplatītāko elementu Visumā. Dzelzs ir svarīgākā Zemes sastāvdaļa (34,6% masas) un kopā ar niķeli atrodas galvenokārt tās kodolā. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Kobalts(){
-    document.getElementById("teksts").innerHTML="Kobalts ir labs"
+    document.getElementById("teksts").innerHTML="Kobalts ir ciets, sudrabbalts, feromagnētisks metāls. Kobalts dabā galvenokārt ir sastopams polimetālisko rūdu sastāvā. Kobaltu lieto korozijas izturīgiem sakausējumiem, savukārt kobalta oksīdu lieto par violeto un zilo stiklu krāsvielu. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Nikelis(){
-    document.getElementById("teksts").innerHTML="Niķelis ir labs"
+    document.getElementById("teksts").innerHTML="Niķelis ir sudrabbalts mirdzošs metāls ar nelielu zeltainu nokrāsu. Niķelis pieder pie pārejas metāliem, tas ir ciets un elastīgs. Dabā niķelis galvenokārt ir sastopams kā piemaisījums dzelzsrūdām. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Vars(){
-    document.getElementById("teksts").innerHTML="Varš ir labs"
+    document.getElementById("teksts").innerHTML="Varš dabā retumis ir sastopams brīvā veidā, tomēr lielāko daļu vara iegūst no sulfīdu un oksīdu rūdām. Varš ir sarkanbrūns metāls ar ļoti labu elektrovadītspēju un siltumvadītspēju. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Cinks(){
-    document.getElementById("teksts").innerHTML="Cinks ir labs"
+    document.getElementById("teksts").innerHTML="Cinks ir zilganpelēks, amfotērs metāls. Cinks ir samērā aktīvs metāls, tāpēc dabā nav sastopams brīvā veidā. Tas reaģē ar skābēm, veidojot attiecīgo skābju sāļus un ūdeņradi, un ar sārmiem, veidojot cinkātus. Cinku iegūst, reducējot oksīdu un sulfīdu rūdas. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Gallijs(){
-    document.getElementById("teksts").innerHTML="Gallijs ir labs"
+    document.getElementById("teksts").innerHTML="Brīvā veidā gallijs dabā nav sastopams, jo ir samērā ķīmiski aktīvs. Arī gallija rūdas koncentrētā veidā nav īpaši izplatītas, tāpēc galliju lielākoties iegūst no citu metālu rūdu piemaisījumiem. Gallijs ir viens no visvieglāk kūstošajiem metāliem. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Germanijs(){
-    document.getElementById("teksts").innerHTML="Germānijs ir labs"
+    document.getElementById("teksts").innerHTML="Germānijs ir spožs, ciets un pelēkbalts pusmetāls. Tas ir viens no 14. grupas elementiem, tādēļ tam ir līdzīgas ķīmiskās īpašības kā citiem šīs grupas elementiem, piemēram, silīcijam un alvai. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Arsens(){
-    document.getElementById("teksts").innerHTML="Arsēns ir labs"
+    document.getElementById("teksts").innerHTML="Arsēns reti ir sastopams tīrā veidā, tas galvenokārt ir atrodams sulfītos. Tas pieder pie pusmetāliem. Atkarībā no modifikācijas, arsēnam var būt gan metālu, gan nemetālu īpašības. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Selens(){
-    document.getElementById("teksts").innerHTML="Selēns ir labs"
+    document.getElementById("teksts").innerHTML="Selēns dabā ļoti reti ir sastopams brīvā veidā. Tas galvenokārt ir selenīdu veidā, kā piemaisījums sulfīdu rūdām. Selēnu 1817. gadā atklāja zviedru ķīmiķis Jenss Jākobs Bercēliuss. Vairāk informācijas "
    document.getElementById("bilde").src=""
 }
 
 function Broms(){
-    document.getElementById("teksts").innerHTML="Broms ir labs"
+    document.getElementById("teksts").innerHTML="Broms ir halogēns. Broms ir vienīgais nemetāls, kas normālos apstākļos ir šķidrums. Tas ir gaistošs sarkanbrūns šķidrums, kura tvaiki ir kodīgi un indīgi. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Kriptons(){
-    document.getElementById("teksts").innerHTML="Kriptons ir labs"
+    document.getElementById("teksts").innerHTML="Dabā kriptons ir sastopams mazos daudzumos brīvā veidā gaisā, no kā to arī iegūst frakcionēti destilējot sašķidrinātu gaisu. Kriptons ir ķīmiski ļoti inerts elements. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Rubidijs(){
-    document.getElementById("teksts").innerHTML="Rubīdijs ir labs"
+    document.getElementById("teksts").innerHTML="Rubīdijs ir mīksts, sudrabbalts sārmu metāls. Rubīdijs dabā nav sastopams brīvā veidā, jo ir ķīmiski ļoti aktīvs — var uzliesmot gaisā; intensīvi reaģē ar gaisa skābekli, ūdeni, oglekļa dioksīdu, tāpat, kā visi pārējie sārmu metāli. Vairāk informācijas"
    document.getElementById("bilde").src=""  
 }
 function Stroncijs(){
-    document.getElementById("teksts").innerHTML="Stroncijs ir labs"
+    document.getElementById("teksts").innerHTML="Stroncijs ir sārmzemju metāls. Stroncijs aktīvi reaģē ar gaisa skābekli un tāpēc brīvā veidā dabā nav sastopams. Stroncijs ir sastopams galvenokārt karbonātu un sulfātu (celestīna) veidā. Stroncijs liesmu iekrāso sarkanā krāsā. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Itrijs(){
-    document.getElementById("teksts").innerHTML="Itrijs ir labs"
+    document.getElementById("teksts").innerHTML="Itrijs ir sudrabbalts, korozijas izturīgs metāls. To iegūst no retzemju metālu rūdām. Itrija oksīds ir viens no sarkanā luminofora komponentiem, krāsainajiem kineskopiem. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Cirkonijs(){
-    document.getElementById("teksts").innerHTML="Cirkonijs ir labs"
+    document.getElementById("teksts").innerHTML="Cirkonijs ir korozijas izturīgs pārejas metāls. To iegūst galvenokārt no cirkona minerāla, no kā arī cēlies elementa nosaukums. Savienojumos cirkonijam parasti ir oksidēšanas pakāpe +4, lai arī var būt +3 un +2. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
 function Niobijs(){
-    document.getElementById("teksts").innerHTML="Niobijs ir labs"
+    document.getElementById("teksts").innerHTML="Tas ir mīksts, pelēks un elastīgs pārejas metāls. Niobijs dabā nav sastopams brīvā veidā, jo ļoti viegli oksidējas. Niobiju iegūst no kolumbīta minerāla. Niobijs parasti atrodams kopā ar tantalu. Niobiju lieto dažādiem sakausējumiem. Vairāk informācijas"
    document.getElementById("bilde").src=""
 }
 
