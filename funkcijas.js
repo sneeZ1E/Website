@@ -200,32 +200,32 @@ function Niobijs(){
 }
 
 function Molibdens(){
-    document.getElementById("teksts").innerHTML="Molibdēns ir labs"
+    document.getElementById("teksts").innerHTML="Molibdēnu pamatā lieto sakausējumos ar dzelzi, ķīmiskā elementa nosaukums ir radies no grieķu vārda μόλυβδος (mólybdos). Molibdēns mikrodaudzumos nepieciešams augu normālai attīstībai."
    document.getElementById("bilde").src=""
 }
 
 function Tehnecijs(){
-    document.getElementById("teksts").innerHTML="Tehnēcijs ir labs"
+    document.getElementById("teksts").innerHTML="Tas ir sintētisks elements, kurš ir iegūts mākslīgi kodolreaktoros. Tā kā šo elementu ieguva mākslīgi, to nosauca par tehnēciju, jo grieķu valodas vārds τεχνητός (technētos) nozīmē ‘mākslīgs’."
    document.getElementById("bilde").src=""
 }
 
 function Rutenijs(){
-    document.getElementById("teksts").innerHTML="Rutēnijs ir labs"
+    document.getElementById("teksts").innerHTML=" Tas ir sastopams kā piemaisījums platīna rūdām. Ķīmiskā elementa nosaukums ir radies no vārda Ruthenia, kas ir Kijevas Krievzemes nosaukums latīņu valodā"
    document.getElementById("bilde").src=""
 }
 
 function Rodijs(){
-    document.getElementById("teksts").innerHTML="Rodijs ir labs"
+    document.getElementById("teksts").innerHTML="Rodijs ir smags cēlmetāls, un tam ir laba korozijas izturība. Elementa nosaukums ir radies no grieķu vārda ῥόδον (rhódon), kas nozīmē ‘roze’, jo tā sāļu šķīdumi ir rožaini sarkanā krāsā."
    document.getElementById("bilde").src=""
 }
 
 function Palladijs(){
-    document.getElementById("teksts").innerHTML="Pallādijs ir labs"
+    document.getElementById("teksts").innerHTML=" Pallādijs ir relatīvi mīksts dārgmetāls, to iegūst no vara un niķeļa rūdām. Elements tika nosaukts par godu asteroīdam 2 Pallāda."
    document.getElementById("bilde").src=""
 }
 
 function Sudrabs(){
-    document.getElementById("teksts").innerHTML="Sudrabs ir labs"
+    document.getElementById("teksts").innerHTML=" Sudrabs ir metāls ar vislielāko elektrovadītspēju un siltumvadītspēju."
    document.getElementById("bilde").src=""
 }
 
@@ -453,12 +453,71 @@ function Tulijs(){
    document.getElementById("bilde").src=""
 }
 function Iterbijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML=""
    document.getElementById("bilde").src=""
 }
 function Lutecijs(){
+    document.getElementById("teksts").innerHTML="Lutēcijs ir sudrabaini balts, korozijas izturīgs metāls. To iegūst no citu metālu rūdu piemaisījumiem. Lutēcijs ir viens no blīvākajiem un dārgākajiem retzemju metāliem. Vairāk informācijas"
+   document.getElementById("bilde").src=""
+}
+function Aktinijs(){
     document.getElementById("teksts").innerHTML="Ksenons ir labs"
    document.getElementById("bilde").src=""
 }
-
+function Torijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Protaktinijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Urans(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Neptunijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Plutonijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Americijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Kirijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Berklijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Kalifornijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Einsteinijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Fermijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Mendelejevijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Nobelijs(){
+    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+   document.getElementById("bilde").src=""
+}
+function Lourensijs(){
+    document.getElementById("teksts").innerHTML="Lourensijs ir labs"
+   document.getElementById("bilde").src=""
+}
 
