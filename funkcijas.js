@@ -1,57 +1,57 @@
 
 function udenradis(){
-    document.getElementById("teksts").innerHTML="Ūdeņradis ir viegli uzliesmojoša un bezkrāsaina divatomu gāze bez smaržas. Tās ķīmiskā formula ir H2. Ūdeņraža atommasa ir 1,00794 g/mol. Vairāk informācijas "
+    document.getElementById("teksts").innerHTML="Ūdeņradis ir viegli uzliesmojoša un bezkrāsaina divatomu gāze bez smaržas. Tās ķīmiskā formula ir H2. Ūdeņraža atommasa ir 1,00794 g/mol. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a> "
     document.getElementById("bilde").src=""
 }
 
 function helijs(){
-    document.getElementById("teksts").innerHTML="Hēlijs ir ķīmiski visinertākais elements, kas tikpat kā neveido ķīmiskus savienojumus. Hēlijs ir nedegoša un grūti sašķidrināma vienatoma gāze. Vairāk informācijas "
+    document.getElementById("teksts").innerHTML="Hēlijs ir ķīmiski visinertākais elements, kas tikpat kā neveido ķīmiskus savienojumus. Hēlijs ir nedegoša un grūti sašķidrināma vienatoma gāze. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a> "
     document.getElementById("bilde").src=""
 }
 
 function natrijs(){
-    document.getElementById("teksts").innerHTML="Nātrijs ir sārmu metāls. Nātrijs dabā brīvā veidā nav sastopams, jo aktīvi reaģē ar gaisa skābekli un ūdeni. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Nātrijs ir sārmu metāls. Nātrijs dabā brīvā veidā nav sastopams, jo aktīvi reaģē ar gaisa skābekli un ūdeni. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a>"
     document.getElementById("bilde").src=""
 }
 
 function magnijs(){
-    document.getElementById("teksts").innerHTML="Magnijs ir sārmzemju metāls, dabā nav sastopams brīvā veidā. Savienojumos magnijs ir divvērtīgs, ar oksidēšanas pakāpi +2, ļoti retos gadījumos pakāpe ir +1. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Magnijs ir sārmzemju metāls, dabā nav sastopams brīvā veidā. Savienojumos magnijs ir divvērtīgs, ar oksidēšanas pakāpi +2, ļoti retos gadījumos pakāpe ir +1. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a>"
     document.getElementById("bilde").src=""
 }
 
 function aluminijs(){
-    document.getElementById("teksts").innerHTML="Alumīnijs dabā nav sastopams brīvā veidā, galvenokārt alumīnija oksīda veidā, kā arī alumosilikātos. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Alumīnijs dabā nav sastopams brīvā veidā, galvenokārt alumīnija oksīda veidā, kā arī alumosilikātos. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function litijs(){
-    document.getElementById("teksts").innerHTML="Litijs ir sārmu metāls, jo ir ķīmiski ļoti aktīvs, tāpēc brīvā veidā dabā nav sastopams.Dabā, savienojumu veidā litijs ir sastopams vairākos minerālos. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Litijs ir sārmu metāls, jo ir ķīmiski ļoti aktīvs, tāpēc brīvā veidā dabā nav sastopams.Dabā, savienojumu veidā litijs ir sastopams vairākos minerālos. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function berilijs(){
-    document.getElementById("teksts").innerHTML="Berilija ķīmiskā elementa nosaukums ir atvasināts no minerāla berila nosaukuma, no kura rūdām tas tiek iegūts. Dabā berilijs brīvā veidā nav sastopams. Savienojumos tas parasti ir divvērtīgs. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Berilija ķīmiskā elementa nosaukums ir atvasināts no minerāla berila nosaukuma, no kura rūdām tas tiek iegūts. Dabā berilijs brīvā veidā nav sastopams. Savienojumos tas parasti ir divvērtīgs. Vairāk informācijas v"
    document.getElementById("bilde").src=""
 }
 function bors(){
-    document.getElementById("teksts").innerHTML="Bors dabā ir sastopams galvenokārt borskābes, sāļu veidā. Tīrā veidā bors ir cieta kristāliska viela. Boram ir iespējamas vairākas alotropiskās formas. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Bors dabā ir sastopams galvenokārt borskābes, sāļu veidā. Tīrā veidā bors ir cieta kristāliska viela. Boram ir iespējamas vairākas alotropiskās formas. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function ogleklis(){
-    document.getElementById("teksts").innerHTML="Ogleklis ietilpst visu organisko vielu sastāvā. Ogleklim ir divas stabilas alotropiskās formas: grafīts un dimants. Ogleklis ir viena no grūtāk kūstošajām vielām (grafīta formā). Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Ogleklis ietilpst visu organisko vielu sastāvā. Ogleklim ir divas stabilas alotropiskās formas: grafīts un dimants. Ogleklis ir viena no grūtāk kūstošajām vielām (grafīta formā). Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function slapeklis(){
-    document.getElementById("teksts").innerHTML="Slāpeklis ir divatomu gāze, kuras ķīmiskā formula ir N2. Dabā slāpeklis ir sastopams atmosfērā, kur tas ir galvenā gaisa sastāvdaļa. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Slāpeklis ir divatomu gāze, kuras ķīmiskā formula ir N2. Dabā slāpeklis ir sastopams atmosfērā, kur tas ir galvenā gaisa sastāvdaļa. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function skabeklis(){
-    document.getElementById("teksts").innerHTML="Skābeklis ir tipisks nemetāls. Normālos apstākļos skābeklis veido vienkāršo vielu, kam ir divatomu molekulas ar ķīmisko formulu O2. Molekulārajam skābeklim nav ne krāsas, ne smaržas, ne garšas. Brīvā veidā skābeklis ir sastopams gaisa sastāvā. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Skābeklis ir tipisks nemetāls. Normālos apstākļos skābeklis veido vienkāršo vielu, kam ir divatomu molekulas ar ķīmisko formulu O2. Molekulārajam skābeklim nav ne krāsas, ne smaržas, ne garšas. Brīvā veidā skābeklis ir sastopams gaisa sastāvā. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function fluors(){
-    document.getElementById("teksts").innerHTML="Fluors brīvā veidā ir nemetāls, tas ir pieskaitāms pie halogēniem un ir visaktīvākais[1] no visām vienkāršajām vielām, kā arī ir stipri indīga viela. Normālos apstākļos fluors ir gāzveida viela, kas ir grūti iegūstama tīrā veidā. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Fluors brīvā veidā ir nemetāls, tas ir pieskaitāms pie halogēniem un ir visaktīvākais[1] no visām vienkāršajām vielām, kā arī ir stipri indīga viela. Normālos apstākļos fluors ir gāzveida viela, kas ir grūti iegūstama tīrā veidā. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/%C5%AAde%C5%86radis'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
