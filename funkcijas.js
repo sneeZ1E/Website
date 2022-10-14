@@ -28,7 +28,7 @@ function litijs(){
    document.getElementById("bilde").src=""
 }
 function berilijs(){
-    document.getElementById("teksts").innerHTML="Berilija ķīmiskā elementa nosaukums ir atvasināts no minerāla berila nosaukuma, no kura rūdām tas tiek iegūts. Dabā berilijs brīvā veidā nav sastopams. Savienojumos tas parasti ir divvērtīgs. Vairāk informācijas v"
+    document.getElementById("teksts").innerHTML="Berilija ķīmiskā elementa nosaukums ir atvasināts no minerāla berila nosaukuma, no kura rūdām tas tiek iegūts. Dabā berilijs brīvā veidā nav sastopams. Savienojumos tas parasti ir divvērtīgs. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Berilijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function bors(){
