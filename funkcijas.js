@@ -345,179 +345,178 @@ function Rezerfordijs(){
    document.getElementById("bilde").src=""
 }
 function Dubnijs(){
-    document.getElementById("teksts").innerHTML="Tas ir ļoti radioaktīvs."
+    document.getElementById("teksts").innerHTML="Tas ir ļoti radioaktīvs. Tiek pieļauts, ka dubnija ķīmiskās īpašības ir līdzīgas tantala ķīmiskajām īpašībām.<a href='https://lv.wikipedia.org/wiki/Dubnijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Sibordzijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Borijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Hasijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Mejtnerijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Darmstadtijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Rentgenijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Kopernicijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Ununtrijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Flerovijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Ununpentijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Livermorijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
-   document.getElementById("bilde").src=""
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
 }
 function Ununseptijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Ununoktijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Lantans(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Cerijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Praziodims(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Neodims(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Prometijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Samarijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Eiropijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Gadolinijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Terbijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Disprozijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Holmijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Erbijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Tulijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Iterbijs(){
-    document.getElementById("teksts").innerHTML=""
+    document.getElementById("teksts").innerHTML=" <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Lutecijs(){
-    document.getElementById("teksts").innerHTML="Lutēcijs ir sudrabaini balts, korozijas izturīgs metāls. To iegūst no citu metālu rūdu piemaisījumiem. Lutēcijs ir viens no blīvākajiem un dārgākajiem retzemju metāliem. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Lutēcijs ir sudrabaini balts, korozijas izturīgs metāls. To iegūst no citu metālu rūdu piemaisījumiem. Lutēcijs ir viens no blīvākajiem un dārgākajiem retzemju metāliem. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Aktinijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Torijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Protaktinijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Urans(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Neptunijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Plutonijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Americijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Kirijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Berklijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Kalifornijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Einsteinijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Fermijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Mendelejevijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Nobelijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs"
+    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Lourensijs(){
-    document.getElementById("teksts").innerHTML="Lourensijs ir labs"
+    document.getElementById("teksts").innerHTML="Lourensijs ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
