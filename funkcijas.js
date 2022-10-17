@@ -56,47 +56,47 @@ function fluors(){
 }
 
 function neons(){
-    document.getElementById("teksts").innerHTML="Neons ir ķīmiskais elements — cēlgāze, un tas ir ķīmiski inerts un neveido savienojumus. Neons ir viens no visizplatītākajiem elementiem Visumā. Bet uz Zemes neons nav tik izplatīts ķīmiskais elements. Dabā neons ir sastopams gaisa sastāvā, un no gaisa to arī iegūst. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Neons ir ķīmiskais elements — cēlgāze, un tas ir ķīmiski inerts un neveido savienojumus. Neons ir viens no visizplatītākajiem elementiem Visumā. Bet uz Zemes neons nav tik izplatīts ķīmiskais elements. Dabā neons ir sastopams gaisa sastāvā, un no gaisa to arī iegūst. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Neons'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function silicijs(){
-    document.getElementById("teksts").innerHTML="Silīcijs dabā brīvā veidā ir sastopams ļoti reti (ieslēgumu veidā iežos), bet lielos daudzumos ir sastopams oksīda SiO2 veidā, kā arī alumosilikātos. Brīvā veidā silīcijs var būt pelēka kristāliskā viela (kristāliskā modifikācija), vai arī brūns pulveris (amorfā modifikācija). Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Silīcijs dabā brīvā veidā ir sastopams ļoti reti (ieslēgumu veidā iežos), bet lielos daudzumos ir sastopams oksīda SiO2 veidā, kā arī alumosilikātos. Brīvā veidā silīcijs var būt pelēka kristāliskā viela (kristāliskā modifikācija), vai arī brūns pulveris (amorfā modifikācija). Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Silīcijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function fosfors(){
-    document.getElementById("teksts").innerHTML="Fosfors ir nemetāls. Dabā tas brīvā veidā nav sastopams, bet ir sastopams fosforskābes sāļu — fosfātu veidā. Brīvā veidā fosforam visvairāk pazīstamas 3 alotropiskās formas: baltais fosfors, sarkanais fosfors un melnais fosfors. Ir arī citas modifikācijas, kas bieži ir iepriekšējo triju variācijas. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Fosfors ir nemetāls. Dabā tas brīvā veidā nav sastopams, bet ir sastopams fosforskābes sāļu — fosfātu veidā. Brīvā veidā fosforam visvairāk pazīstamas 3 alotropiskās formas: baltais fosfors, sarkanais fosfors un melnais fosfors. Ir arī citas modifikācijas, kas bieži ir iepriekšējo triju variācijas. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Fosfors'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function sers(){
-    document.getElementById("teksts").innerHTML="Sērs ir nemetāls, kurš pieskaitāms pie halkogēniem, lai arī bieži vien šo grupu īpaši neizdala. Sērs deg (bet diezgan slikti), ar zilu liesmu, veidojot sēra dioksīdu. Rūpnieciski nozīmīgākais sēra savienojums ir sērskābe. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Sērs ir nemetāls, kurš pieskaitāms pie halkogēniem, lai arī bieži vien šo grupu īpaši neizdala. Sērs deg (bet diezgan slikti), ar zilu liesmu, veidojot sēra dioksīdu. Rūpnieciski nozīmīgākais sēra savienojums ir sērskābe. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Sērs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function hlors(){
-    document.getElementById("teksts").innerHTML="Hlors pieder pie halogēniem un tam piemīt tipiskas nemetālu īpašības. Brīvā veidā hlors ir toksiska, korozīva, relatīvi viegli sašķidrināma gāze, kas sastāv no divatomu molekulām Cl2. Brīvā veidā dabā hlors ir sastopams dažās vulkāniskajās gāzēs. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Hlors pieder pie halogēniem un tam piemīt tipiskas nemetālu īpašības. Brīvā veidā hlors ir toksiska, korozīva, relatīvi viegli sašķidrināma gāze, kas sastāv no divatomu molekulām Cl2. Brīvā veidā dabā hlors ir sastopams dažās vulkāniskajās gāzēs. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Hlors'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function argons(){
-    document.getElementById("teksts").innerHTML="Argons ir viena no cēlgāzēm. Argons dabā ir sastopams brīvā veidā, gaisa sastāvā. Tas sastāda 0,93% no Zemes atmosfēras. Līdz ar to tā ir trešā izplatītākā gāze. Argons neveido stabilus ķīmiskos savienojumus. Šī iemesla dēļ tas ieguva savu nosaukumu no grieķu vārda αργον (argon), kas nozīmē slinks, bezdarbīgs. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Argons ir viena no cēlgāzēm. Argons dabā ir sastopams brīvā veidā, gaisa sastāvā. Tas sastāda 0,93% no Zemes atmosfēras. Līdz ar to tā ir trešā izplatītākā gāze. Argons neveido stabilus ķīmiskos savienojumus. Šī iemesla dēļ tas ieguva savu nosaukumu no grieķu vārda αργον (argon), kas nozīmē slinks, bezdarbīgs. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Argons'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Kalijs(){
-    document.getElementById("teksts").innerHTML="Kālijs ir viens no sārmu metāliem. Dabā brīvā veidā šis elements nav sastopams, jo ķīmiski ir ļoti aktīvs. Brīvā veidā kāliju iegūst, elektrolizējot tā savienojumu — parasti hlorīda vai hidroksīda kausējumus. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Kālijs ir viens no sārmu metāliem. Dabā brīvā veidā šis elements nav sastopams, jo ķīmiski ir ļoti aktīvs. Brīvā veidā kāliju iegūst, elektrolizējot tā savienojumu — parasti hlorīda vai hidroksīda kausējumus. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Kālijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Kalcijs(){
-    document.getElementById("teksts").innerHTML="Kalcijs ir sārmzemju metāls, tas ir mīksts, sudrabaini balts metāls, bet dabā tas brīvā veidā nav sastopams, atrodams vienīgi savienojumu veidā. Kalcijs ir piektais visbiežāk sastopamais ķīmiskais elements Zemes garozā. Vairums kalcija savienojumi ir baltas cietvielas. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Kalcijs ir sārmzemju metāls, tas ir mīksts, sudrabaini balts metāls, bet dabā tas brīvā veidā nav sastopams, atrodams vienīgi savienojumu veidā. Kalcijs ir piektais visbiežāk sastopamais ķīmiskais elements Zemes garozā. Vairums kalcija savienojumi ir baltas cietvielas. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Kālijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Skandijs(){
-    document.getElementById("teksts").innerHTML="Skandijs ir ļoti reti sastopams, izkliedēts pārejas metāls un nelielos daudzumos ir sastopams dažādos minerālos. Skandijs ir pirmais d elements periodiskajā sistēmā — tā atomā elektroni sāk aizpildīt d līmeni trešajā čaulā. Skandiju iegūst metalotermiski vai elektrolizējot skandija hlorīda kausējumu. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Skandijs ir ļoti reti sastopams, izkliedēts pārejas metāls un nelielos daudzumos ir sastopams dažādos minerālos. Skandijs ir pirmais d elements periodiskajā sistēmā — tā atomā elektroni sāk aizpildīt d līmeni trešajā čaulā. Skandiju iegūst metalotermiski vai elektrolizējot skandija hlorīda kausējumu. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Skandijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
@@ -111,91 +111,91 @@ function Vanadijs(){
 }
 
 function Hroms(){
-    document.getElementById("teksts").innerHTML="Hroms ir ciets un korozijas izturīgs metāls, kuru lieto dzelzs sakausējumu pārklāšanai un sakausējumiem. Dabā hroms reti ir sastopams brīvā veidā, taču rūpnieciski hromu iegūst no hroma rūdām. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Hroms ir ciets un korozijas izturīgs metāls, kuru lieto dzelzs sakausējumu pārklāšanai un sakausējumiem. Dabā hroms reti ir sastopams brīvā veidā, taču rūpnieciski hromu iegūst no hroma rūdām. Vairāk informācijas <a href=''>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Mangans(){
-    document.getElementById("teksts").innerHTML="Mangāns ir pārejas metāls, kas pieder pie d elementiem. Tā valences elektronu konfigurācija līdzīga tehnēcija un rēnija elektronu konfigurācijai, tādēļ šo elementu īpašības ir līdzīgas. Vairāk informācijas "
+    document.getElementById("teksts").innerHTML="Mangāns ir pārejas metāls, kas pieder pie d elementiem. Tā valences elektronu konfigurācija līdzīga tehnēcija un rēnija elektronu konfigurācijai, tādēļ šo elementu īpašības ir līdzīgas. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Hroms'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Dzelzs(){
-    document.getElementById("teksts").innerHTML="Dzelzs ir ļoti izplatīts metāls, un to uzskata par desmito visizplatītāko elementu Visumā. Dzelzs ir svarīgākā Zemes sastāvdaļa (34,6% masas) un kopā ar niķeli atrodas galvenokārt tās kodolā. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Dzelzs ir ļoti izplatīts metāls, un to uzskata par desmito visizplatītāko elementu Visumā. Dzelzs ir svarīgākā Zemes sastāvdaļa (34,6% masas) un kopā ar niķeli atrodas galvenokārt tās kodolā. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Mangāns'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Kobalts(){
-    document.getElementById("teksts").innerHTML="Kobalts ir ciets, sudrabbalts, feromagnētisks metāls. Kobalts dabā galvenokārt ir sastopams polimetālisko rūdu sastāvā. Kobaltu lieto korozijas izturīgiem sakausējumiem, savukārt kobalta oksīdu lieto par violeto un zilo stiklu krāsvielu. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Kobalts ir ciets, sudrabbalts, feromagnētisks metāls. Kobalts dabā galvenokārt ir sastopams polimetālisko rūdu sastāvā. Kobaltu lieto korozijas izturīgiem sakausējumiem, savukārt kobalta oksīdu lieto par violeto un zilo stiklu krāsvielu. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Kobalts'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Nikelis(){
-    document.getElementById("teksts").innerHTML="Niķelis ir sudrabbalts mirdzošs metāls ar nelielu zeltainu nokrāsu. Niķelis pieder pie pārejas metāliem, tas ir ciets un elastīgs. Dabā niķelis galvenokārt ir sastopams kā piemaisījums dzelzsrūdām. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Niķelis ir sudrabbalts mirdzošs metāls ar nelielu zeltainu nokrāsu. Niķelis pieder pie pārejas metāliem, tas ir ciets un elastīgs. Dabā niķelis galvenokārt ir sastopams kā piemaisījums dzelzsrūdām. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Niķelis'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Vars(){
-    document.getElementById("teksts").innerHTML="Varš dabā retumis ir sastopams brīvā veidā, tomēr lielāko daļu vara iegūst no sulfīdu un oksīdu rūdām. Varš ir sarkanbrūns metāls ar ļoti labu elektrovadītspēju un siltumvadītspēju. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Varš dabā retumis ir sastopams brīvā veidā, tomēr lielāko daļu vara iegūst no sulfīdu un oksīdu rūdām. Varš ir sarkanbrūns metāls ar ļoti labu elektrovadītspēju un siltumvadītspēju. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Varš'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Cinks(){
-    document.getElementById("teksts").innerHTML="Cinks ir zilganpelēks, amfotērs metāls. Cinks ir samērā aktīvs metāls, tāpēc dabā nav sastopams brīvā veidā. Tas reaģē ar skābēm, veidojot attiecīgo skābju sāļus un ūdeņradi, un ar sārmiem, veidojot cinkātus. Cinku iegūst, reducējot oksīdu un sulfīdu rūdas. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Cinks ir zilganpelēks, amfotērs metāls. Cinks ir samērā aktīvs metāls, tāpēc dabā nav sastopams brīvā veidā. Tas reaģē ar skābēm, veidojot attiecīgo skābju sāļus un ūdeņradi, un ar sārmiem, veidojot cinkātus. Cinku iegūst, reducējot oksīdu un sulfīdu rūdas. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Cinks'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Gallijs(){
-    document.getElementById("teksts").innerHTML="Brīvā veidā gallijs dabā nav sastopams, jo ir samērā ķīmiski aktīvs. Arī gallija rūdas koncentrētā veidā nav īpaši izplatītas, tāpēc galliju lielākoties iegūst no citu metālu rūdu piemaisījumiem. Gallijs ir viens no visvieglāk kūstošajiem metāliem. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Brīvā veidā gallijs dabā nav sastopams, jo ir samērā ķīmiski aktīvs. Arī gallija rūdas koncentrētā veidā nav īpaši izplatītas, tāpēc galliju lielākoties iegūst no citu metālu rūdu piemaisījumiem. Gallijs ir viens no visvieglāk kūstošajiem metāliem. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Gallijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Germanijs(){
-    document.getElementById("teksts").innerHTML="Germānijs ir spožs, ciets un pelēkbalts pusmetāls. Tas ir viens no 14. grupas elementiem, tādēļ tam ir līdzīgas ķīmiskās īpašības kā citiem šīs grupas elementiem, piemēram, silīcijam un alvai. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Germānijs ir spožs, ciets un pelēkbalts pusmetāls. Tas ir viens no 14. grupas elementiem, tādēļ tam ir līdzīgas ķīmiskās īpašības kā citiem šīs grupas elementiem, piemēram, silīcijam un alvai. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Germānijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Arsens(){
-    document.getElementById("teksts").innerHTML="Arsēns reti ir sastopams tīrā veidā, tas galvenokārt ir atrodams sulfītos. Tas pieder pie pusmetāliem. Atkarībā no modifikācijas, arsēnam var būt gan metālu, gan nemetālu īpašības. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Arsēns reti ir sastopams tīrā veidā, tas galvenokārt ir atrodams sulfītos. Tas pieder pie pusmetāliem. Atkarībā no modifikācijas, arsēnam var būt gan metālu, gan nemetālu īpašības. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Arsēns'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Selens(){
-    document.getElementById("teksts").innerHTML="Selēns dabā ļoti reti ir sastopams brīvā veidā. Tas galvenokārt ir selenīdu veidā, kā piemaisījums sulfīdu rūdām. Selēnu 1817. gadā atklāja zviedru ķīmiķis Jenss Jākobs Bercēliuss. Vairāk informācijas "
+    document.getElementById("teksts").innerHTML="Selēns dabā ļoti reti ir sastopams brīvā veidā. Tas galvenokārt ir selenīdu veidā, kā piemaisījums sulfīdu rūdām. Selēnu 1817. gadā atklāja zviedru ķīmiķis Jenss Jākobs Bercēliuss. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Selēns'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Broms(){
-    document.getElementById("teksts").innerHTML="Broms ir halogēns. Broms ir vienīgais nemetāls, kas normālos apstākļos ir šķidrums. Tas ir gaistošs sarkanbrūns šķidrums, kura tvaiki ir kodīgi un indīgi. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Broms ir halogēns. Broms ir vienīgais nemetāls, kas normālos apstākļos ir šķidrums. Tas ir gaistošs sarkanbrūns šķidrums, kura tvaiki ir kodīgi un indīgi. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Broms'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Kriptons(){
-    document.getElementById("teksts").innerHTML="Dabā kriptons ir sastopams mazos daudzumos brīvā veidā gaisā, no kā to arī iegūst frakcionēti destilējot sašķidrinātu gaisu. Kriptons ir ķīmiski ļoti inerts elements. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Dabā kriptons ir sastopams mazos daudzumos brīvā veidā gaisā, no kā to arī iegūst frakcionēti destilējot sašķidrinātu gaisu. Kriptons ir ķīmiski ļoti inerts elements. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Kriptons'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Rubidijs(){
-    document.getElementById("teksts").innerHTML="Rubīdijs ir mīksts, sudrabbalts sārmu metāls. Rubīdijs dabā nav sastopams brīvā veidā, jo ir ķīmiski ļoti aktīvs — var uzliesmot gaisā; intensīvi reaģē ar gaisa skābekli, ūdeni, oglekļa dioksīdu, tāpat, kā visi pārējie sārmu metāli. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Rubīdijs ir mīksts, sudrabbalts sārmu metāls. Rubīdijs dabā nav sastopams brīvā veidā, jo ir ķīmiski ļoti aktīvs — var uzliesmot gaisā; intensīvi reaģē ar gaisa skābekli, ūdeni, oglekļa dioksīdu, tāpat, kā visi pārējie sārmu metāli. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Rubīdijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""  
 }
 function Stroncijs(){
-    document.getElementById("teksts").innerHTML="Stroncijs ir sārmzemju metāls. Stroncijs aktīvi reaģē ar gaisa skābekli un tāpēc brīvā veidā dabā nav sastopams. Stroncijs ir sastopams galvenokārt karbonātu un sulfātu (celestīna) veidā. Stroncijs liesmu iekrāso sarkanā krāsā. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Stroncijs ir sārmzemju metāls. Stroncijs aktīvi reaģē ar gaisa skābekli un tāpēc brīvā veidā dabā nav sastopams. Stroncijs ir sastopams galvenokārt karbonātu un sulfātu (celestīna) veidā. Stroncijs liesmu iekrāso sarkanā krāsā. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Stroncijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Itrijs(){
-    document.getElementById("teksts").innerHTML="Itrijs ir sudrabbalts, korozijas izturīgs metāls. To iegūst no retzemju metālu rūdām. Itrija oksīds ir viens no sarkanā luminofora komponentiem, krāsainajiem kineskopiem. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Itrijs ir sudrabbalts, korozijas izturīgs metāls. To iegūst no retzemju metālu rūdām. Itrija oksīds ir viens no sarkanā luminofora komponentiem, krāsainajiem kineskopiem. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Itrijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Cirkonijs(){
-    document.getElementById("teksts").innerHTML="Cirkonijs ir korozijas izturīgs pārejas metāls. To iegūst galvenokārt no cirkona minerāla, no kā arī cēlies elementa nosaukums. Savienojumos cirkonijam parasti ir oksidēšanas pakāpe +4, lai arī var būt +3 un +2. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Cirkonijs ir korozijas izturīgs pārejas metāls. To iegūst galvenokārt no cirkona minerāla, no kā arī cēlies elementa nosaukums. Savienojumos cirkonijam parasti ir oksidēšanas pakāpe +4, lai arī var būt +3 un +2. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Cirkonijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Niobijs(){
-    document.getElementById("teksts").innerHTML="Tas ir mīksts, pelēks un elastīgs pārejas metāls. Niobijs dabā nav sastopams brīvā veidā, jo ļoti viegli oksidējas. Niobiju iegūst no kolumbīta minerāla. Niobijs parasti atrodams kopā ar tantalu. Niobiju lieto dažādiem sakausējumiem. Vairāk informācijas"
+    document.getElementById("teksts").innerHTML="Tas ir mīksts, pelēks un elastīgs pārejas metāls. Niobijs dabā nav sastopams brīvā veidā, jo ļoti viegli oksidējas. Niobiju iegūst no kolumbīta minerāla. Niobijs parasti atrodams kopā ar tantalu. Niobiju lieto dažādiem sakausējumiem. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Niobijs'>Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
@@ -304,15 +304,15 @@ function Zelts(){
    document.getElementById("bilde").src=""
 }
 function Dzivsudrabs(){
-    document.getElementById("teksts").innerHTML="Dzīvsudrabs ir samērā inerts metāls ar viszemāko kušanas temperatūru — normālos apstākļos dzīvsudrabs ir šķidrums. Dabā dzīvsudrabs ievērojamos daudzumos ir sastopams oksīda veidā. Dzīvsudraba tvaiki un šķīstošie dzīvsudraba savienojumi ir indīgi."
+    document.getElementById("teksts").innerHTML="Dzīvsudrabs ir samērā inerts metāls ar viszemāko kušanas temperatūru — normālos apstākļos dzīvsudrabs ir šķidrums. Dabā dzīvsudrabs ievērojamos daudzumos ir sastopams oksīda veidā. Dzīvsudraba tvaiki un šķīstošie dzīvsudraba savienojumi ir indīgi. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Dzīvsudrabs'> Vikipēdijā"
    document.getElementById("bilde").src=""
 }
 function Tallijs(){
-    document.getElementById("teksts").innerHTML="Tallijs ir viegli kūstošs, sudrabbalts, samērā aktīvs metāls un reaģē ar gaisa skābekli, lēni oksidējoties. Talliju iegūst galvenokārt no vara, cinka un citu metālu sulfīdu rūdām."
+    document.getElementById("teksts").innerHTML="Tallijs ir viegli kūstošs, sudrabbalts, samērā aktīvs metāls un reaģē ar gaisa skābekli, lēni oksidējoties. Talliju iegūst galvenokārt no vara, cinka un citu metālu sulfīdu rūdām.Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Tallijs'> Vikipēdijā"
    document.getElementById("bilde").src=""
 }
 function Svins(){
-    document.getElementById("teksts").innerHTML="Svins ir toksisks smagais metāls ar relatīvi labu korozijas izturību. Brīvā veidā svins dabā ir sastopams ļoti reti. Svins veidojas arī daudzu smago radioaktīvo izotopu sabrukšanas procesā. Lielu daļu svina iegūst no sulfīdu rūdas, ir sastopamas arī karbonātu un sulfātu rūdas"
+    document.getElementById("teksts").innerHTML="Svins ir toksisks smagais metāls ar relatīvi labu korozijas izturību. Brīvā veidā svins dabā ir sastopams ļoti reti. Svins veidojas arī daudzu smago radioaktīvo izotopu sabrukšanas procesā. Lielu daļu svina iegūst no sulfīdu rūdas, ir sastopamas arī karbonātu un sulfātu rūdasVairāk informācijas <a href='https://lv.wikipedia.org/wiki/Svins'> Vikipēdijā"
    document.getElementById("bilde").src=""
 }
 function Bismuts(){
