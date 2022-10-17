@@ -349,86 +349,86 @@ function Dubnijs(){
    document.getElementById("bilde").src=""
 }
 function Sibordzijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tā kā sībordžijs ir mākslīgs ķīmiskais elements, tas dabā nav sastopams. Tas ir radioaktīvs <a href='https://lv.wikipedia.org/wiki/Sībordžijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Borijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas nosaukts dāņu fiziķa Nīlsa Bora vārdā. Dabā borijs nav sastopams. Visi borija izotopi ir ļoti radioaktīvi <a href='https://lv.wikipedia.org/wiki/Borijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Hasijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tā stabilākais izotops ir hasijs-270 un hasijs ir viens no transaktinīdiem (supersmagajiem ķīmiskajiem elementiem). <a href='https://lv.wikipedia.org/wiki/Hasijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
-function Mejtnerijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+function Meitnerijs(){
+    document.getElementById("teksts").innerHTML="Tas ir ļoti radioaktīvs ķīmiskais elements. Dabā meitnerijs nav sastopams. <a href='https://lv.wikipedia.org/wiki/Meitnerijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
-function Darmstadtijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+function Darmstatijs(){
+    document.getElementById("teksts").innerHTML="Tas ir ļoti radioaktīvs. Agrāk šis ķīmiskais elements bija zināms kā ununnilijs (Uun). <a href='https://lv.wikipedia.org/wiki/Darmštatijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Rentgenijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir ļoti radioaktīvs un mākslīgi iegūts ķīmiskais elements (dabā šis elements nav sastopams). Pirmo reizi iegūts 1994. gadā. <a href='https://lv.wikipedia.org/wiki/Rentgenijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
-function Kopernicijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+function Kopernikijs(){
+    document.getElementById("teksts").innerHTML="Par tā fiziskajām īpašībām nav zināms praktiski nekas, bet teorētiski kopernikijs varētu būt gaistošs metāls. <a href='https://lv.wikipedia.org/wiki/Kopernikijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
-function Ununtrijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+function Nihonijs(){
+    document.getElementById("teksts").innerHTML="Tas ir ļoti radioaktīvs. Līdz 2016. gada 28. novembrim šī ķīmiskā elementa nosaukums bija ununtrijs. <a href='https://lv.wikipedia.org/wiki/Nihonijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Flerovijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir ļoti radioaktīvs. Flerovijs tika prognozēts ķīmiskais elements sākotnēji ar nosaukumu ekasvins. <a href='https://lv.wikipedia.org/wiki/Flerovijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
-function Ununpentijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+function Moskovijs(){
+    document.getElementById("teksts").innerHTML="Teorētiski moskovijam vajadzētu būt tallijam līdzīgam metālam. <a href='https://lv.wikipedia.org/wiki/Moskovijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Livermorijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Stabilākā livermorija izotopa 293Lv pussabrukšanas periods ir apmēram 61 milisekunde. <a href='https://lv.wikipedia.org/wiki/Livermorijs'> Vikipēdijā</a>"
 }
-function Ununseptijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+function Tenesīns(){
+    document.getElementById("teksts").innerHTML="Šis elements ir halogēnu analogs un teorētiski tam būtu jābūt pusmetālam. <a href='https://lv.wikipedia.org/wiki/Tenesīns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
-function Ununoktijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+function Oganesons(){
+    document.getElementById("teksts").innerHTML="Oganesons pieder inerto gāzu grupai. Stabila izotopa oganesonam nav, mākslīgi ir izdevies iegūt tikai dažus šī elementa atomus. <a href='https://lv.wikipedia.org/wiki/Oganesons'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Lantans(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir sudrabbalts, mīksts metāls, kas elementu tabulā ir 3. grupā.  <a href='https://lv.wikipedia.org/wiki/Lantāns'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Cerijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir mīksts, sudrabaini balts, ķīmiski aktīvs metāls un ir otrais aktīvākais lantanīds. <a href='https://lv.wikipedia.org/wiki/Cērijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Praziodims(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML=" <a href='https://en.wikipedia.org/wiki/Praseodymium'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Neodims(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir ķīmiski aktīvs retzemju metāls. Tāpat, kā citus lantanīdus, neodīmu iegūst no polimetāliskajām rūdām. <a href='https://lv.wikipedia.org/wiki/Neodīms'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Prometijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir mīksts, radioaktīvs metāls. <a href='https://lv.wikipedia.org/wiki/Prometijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Samarijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir mīksts retzemju metāls, lantanīds. <a href='https://lv.wikipedia.org/wiki/Samārijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Eiropijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Eiropijs ir ķīmiski visaktīvākais retzemju elements. Eiropijs un amerīcijs ir vienīgie ķīmiskie elementi, kas nosaukti pasaules daļu vārdos. <a href='https://lv.wikipedia.org/wiki/Eiropijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Gadolinijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir sudrabbalts, mīksts metāls. Salīdzinot ar citiem lantanīdiem, tas ir relatīvi stabils gaisā (oksidējas lēnām) <a href='https://lv.wikipedia.org/wiki/Gadolīnijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Terbijs(){
