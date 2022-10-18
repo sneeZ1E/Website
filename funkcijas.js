@@ -316,32 +316,32 @@ function Svins(){
    document.getElementById("bilde").src=""
 }
 function Bismuts(){
-    document.getElementById("teksts").innerHTML="Bismuts dabā brīvā veidā sastopams ļoti reti, to iegūst no sulfīdu un oksīdu rūdām. Bismuts ir smags metāls, un tas ir mazāk toksisks kā svins."
+    document.getElementById("teksts").innerHTML="Bismuts dabā brīvā veidā sastopams ļoti reti, to iegūst no sulfīdu un oksīdu rūdām. Bismuts ir smags metāls, un tas ir mazāk toksisks kā svins.<a href='https://lv.wikipedia.org/wiki/Bismuts'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Polonijs(){
-    document.getElementById("teksts").innerHTML="Polonijs ir reti sastopams, galvenokārt urāna rūdās. Visi polonija izotopi ir radioaktīvi. Pēc ķīmiskajām īpašībām polonijs ir līdzīgs bismutam un telūram."
+    document.getElementById("teksts").innerHTML="Polonijs ir reti sastopams, galvenokārt urāna rūdās. Visi polonija izotopi ir radioaktīvi. Pēc ķīmiskajām īpašībām polonijs ir līdzīgs bismutam un telūram.<a href='https://lv.wikipedia.org/wiki/Polonijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Astats(){
-    document.getElementById("teksts").innerHTML="Astats ir radioaktīvs un dabā niecīgos daudzumos ir sastopams urāna rūdās. Astats ir smagākais halogēns. Visi astata izotopi ir radioaktīvi."
+    document.getElementById("teksts").innerHTML="Astats ir radioaktīvs un dabā niecīgos daudzumos ir sastopams urāna rūdās. Astats ir smagākais halogēns. Visi astata izotopi ir radioaktīvi.<a href='https://lv.wikipedia.org/wiki/Astats'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Radons(){
-    document.getElementById("teksts").innerHTML="Radons ir smaga, radioaktīva un bezkrāsaina cēlgāze. Radons ir ķīmiski inerts un galvenie pielietojumi ir saistīti ar tā radioaktivitāti."
+    document.getElementById("teksts").innerHTML="Radons ir smaga, radioaktīva un bezkrāsaina cēlgāze. Radons ir ķīmiski inerts un galvenie pielietojumi ir saistīti ar tā radioaktivitāti.<a href='https://lv.wikipedia.org/wiki/Radons'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
 function Francijs(){
-    document.getElementById("teksts").innerHTML="Francijs ir sārmu metāls, kuram ir zemākā elektronegativitāte no visiem zināmajiem elementiem. Visi francija izotopi ir radioaktīvi."
+    document.getElementById("teksts").innerHTML="Francijs ir sārmu metāls, kuram ir zemākā elektronegativitāte no visiem zināmajiem elementiem. Visi francija izotopi ir radioaktīvi.<a href='https://lv.wikipedia.org/wiki/Francijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Radijs(){
-    document.getElementById("teksts").innerHTML="Rādiju 1898. gadā Parīzē atklāja dzīvesbiedri fiziķi Pjērs Kirī un Marija Kirī. Rādiju dažreiz pieskaita pie sārmzemju metāliem."
+    document.getElementById("teksts").innerHTML="Rādiju 1898. gadā Parīzē atklāja dzīvesbiedri fiziķi Pjērs Kirī un Marija Kirī. Rādiju dažreiz pieskaita pie sārmzemju metāliem.<a href='https://lv.wikipedia.org/wiki/Rādijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Rezerfordijs(){
-    document.getElementById("teksts").innerHTML="Rezerfordijs nav sastopams dabā, to iegūst tikai laboratorijās. Tas ir ļoti radioaktīvs metāls."
+    document.getElementById("teksts").innerHTML="Rezerfordijs nav sastopams dabā, to iegūst tikai laboratorijās. Tas ir ļoti radioaktīvs metāls.<a href='hhttps://lv.wikipedia.org/wiki/Rezerfordijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Dubnijs(){
@@ -432,91 +432,91 @@ function Gadolinijs(){
    document.getElementById("bilde").src=""
 }
 function Terbijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir sudrabbalts, mīksts metāls. To iegūst no polimetāliskajām rūdām, tāpat kā citus lantanīdus. <a href='https://lv.wikipedia.org/wiki/Terbijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Disprozijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir mīksts, sudrabbalts metāls <a href='https://lv.wikipedia.org/wiki/Disprozijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Holmijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir sudrabbalts, mīksts metāls. Holmijam ir liels magnētiskais moments, tāpēc to lieto magnētiem. <a href='https://lv.wikipedia.org/wiki/Holmijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Erbijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML=" Tas ir mīksts, plastisks metāls. Savienojumos erbijam parasti ir oksidēšanas pakāpe +3. <a href='https://lv.wikipedia.org/wiki/Erbijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Tulijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML=" Tas ir mīksts, sudrabpelēcīgs metāls un ir visretāk sastopamais lantanīds. <a href='https://lv.wikipedia.org/wiki/Tūlijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Iterbijs(){
-    document.getElementById("teksts").innerHTML=" <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir mīksts, sudrabbalts metāls. Savienojumos iterbijam parasti ir oksidēšanas pakāpe +3. <a href='https://lv.wikipedia.org/wiki/Iterbijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Lutecijs(){
-    document.getElementById("teksts").innerHTML="Lutēcijs ir sudrabaini balts, korozijas izturīgs metāls. To iegūst no citu metālu rūdu piemaisījumiem. Lutēcijs ir viens no blīvākajiem un dārgākajiem retzemju metāliem. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Lutēcijs ir sudrabaini balts, korozijas izturīgs metāls. To iegūst no citu metālu rūdu piemaisījumiem. Lutēcijs ir viens no blīvākajiem un dārgākajiem retzemju metāliem. Vairāk informācijas <a href='https://lv.wikipedia.org/wiki/Lutēcijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Aktinijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir mīksts, sudrabbalts radioaktīvs pārejas metāls. Dabā tas ir sastopams urāna rūdās. <a href='https://lv.wikipedia.org/wiki/Aktīnijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Torijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Torijs ir mēreni ciets, kaļams un ar augstu kušanas temperatūru. <a href='https://lv.wikipedia.org/wiki/Torijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Protaktinijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML=" Protaktīnijs ir dārgs un grūti pieejams, kā arī indīgs, tāpēc tam nav praktiska izmantojuma, izņemot zinātniskus mērķus. <a href='https://lv.wikipedia.org/wiki/Protaktīnijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Urans(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML=" Tas ir sudrabpelēks, radioaktīvs un smags metāls. Urāns ir ar vislielāko atommasu no visiem dabiskajiem ķīmiskajiem elementiem. <a href='https://lv.wikipedia.org/wiki/Urāns_(elements)'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Neptunijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Neptūnijs ir sudrabbalts radioaktīvs metāls. <a href='https://lv.wikipedia.org/wiki/Neptūnijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Plutonijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tīrs plutonijs ir sudrabbalts, radioaktīvs metāls. Visi plutonija savienojumi ir indīgi. <a href='https://lv.wikipedia.org/wiki/Plutonijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Americijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir aktinīdu saimes elements. Amerīcijs ir sudrabbalts, radioaktīvs metāls. <a href='https://lv.wikipedia.org/wiki/Amerīcijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Kirijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Kirijs ir radioaktīvs metāls. Tas ir ciets, blīvs un sudrabains metāls ar relatīvi augstu kušanas temperatūru. <a href='https://lv.wikipedia.org/wiki/Kirijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Berklijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Berklijs ir radioaktīvs. <a href='https://lv.wikipedia.org/wiki/Berklijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Kalifornijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Kalifornijam ir relatīvi maza kritiskā masa, tāpēc no tā būtu iespējams izgatavot maza izmēra kodolieročus. <a href='https://lv.wikipedia.org/wiki/Kalifornijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Einsteinijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML=" Tas ir metālisks radioaktīvais elements, kas pieder pie aktinīdiem. <a href='https://lv.wikipedia.org/wiki/Einšteinijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Fermijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir metālisks radioaktīvais elements. <a href='https://lv.wikipedia.org/wiki/Fermijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Mendelejevijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir metālisks radioaktīvais elements. <a href='https://lv.wikipedia.org/wiki/Mendeļejevijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Nobelijs(){
-    document.getElementById("teksts").innerHTML="Ksenons ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Tas ir radioaktīvs elements. <a href='https://lv.wikipedia.org/wiki/Nobēlijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 function Lourensijs(){
-    document.getElementById("teksts").innerHTML="Lourensijs ir labs <a href='https://lv.wikipedia.org/wiki/Plat%C4%ABns'> Vikipēdijā</a>"
+    document.getElementById("teksts").innerHTML="Lourensiju var iegūt kodolsintēzē, bombardējot kalifornija atomus ar bora kodoliem. <a href='https://lv.wikipedia.org/wiki/Lourensijs'> Vikipēdijā</a>"
    document.getElementById("bilde").src=""
 }
 
